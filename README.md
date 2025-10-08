@@ -1,4 +1,4 @@
-<h1 align = "center">🤖 Awesome LLM for APR</h1>
+<h1 align = "center">🤖 Awesome LLM for UT</h1>
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
   <a href="https://arxiv.org/abs/2405.01466"><img src="https://img.shields.io/badge/arXiv-2405.01466-blue.svg"></a>
@@ -50,6 +50,7 @@
 
 | Title | Year | Venue |
 |-------|------|-------|
+| Clarifying Semantics of In-Context Examples for Unit Test Generation | 2025 | ASE |
 | Reinforcement Learning from Automatic Feedback for High-Quality Unit Test Generation | 2025 | ICSE@DeepTest |
 | RUG: Turbo LLM for Rust Unit Test Generation | 2025 | ICSE |
 | What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation | 2025 | ICSE |
