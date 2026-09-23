@@ -79,4 +79,4 @@ This package supplies **descriptive-distribution data**, not the historical data
 
 ## Rights and citation
 
-Primary papers and linked code/data retain their original rights and licenses. No third-party full text is redistributed. Consult the repository's applicable license before reuse. When citing these data, cite the survey and the repository release or commit used for the analysis.
+Primary papers and linked code/data retain their original rights and licenses. No third-party full text is redistributed. The data are released under the repository's CC BY 4.0 license (see LICENSE at the repository root). When citing these data, cite the survey and the repository release or commit used for the analysis.

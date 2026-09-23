@@ -29,6 +29,7 @@ A collection of studies on large language models for unit testing, accompanying 
 - [Related Surveys](#related-surveys)
 - [Star History](#star-history)
 - [Extraction Data](#extraction-data)
+- [License](#license)
 
 ## Citation
 
@@ -97,7 +98,7 @@ Studies may address multiple tasks and therefore appear in more than one section
 | 43 | [Mutation-Guided Unit Test Generation With a Large Language Model](https://arxiv.org/html/2506.02954v8) | 2026 | TSE |
 | 44 | [Ockhamareto: Pareto-Gated Segment-Level Credit Assignment for Concise Unit-Test Generation with Reinforcement Learning](https://arxiv.org/html/2608.24473v1) | 2026 | arXiv |
 | 45 | [On the risk of coding before testing: An empirical study on LLM-based test generation workflow](https://arxiv.org/abs/2607.05139) | 2026 | arXiv |
-| 46 | [Optimizing Context and Cost in LLM ‐Based Unit Test Generation: A Study on External Dependency Retrieval Strategies](https://doi.org/10.1111/exsy.70401) | 2026 | Expert Systems |
+| 46 | [Optimizing Context and Cost in LLM-Based Unit Test Generation: A Study on External Dependency Retrieval Strategies](https://doi.org/10.1111/exsy.70401) | 2026 | Expert Systems |
 | 47 | [PALM: Path-aware LLM-based Test Generation with Comprehension](https://arxiv.org/html/2506.19287v2) | 2026 | ICPC |
 | 48 | [Planning to Explore: Curiosity-Driven Planning for LLM Test Generation](https://arxiv.org/html/2604.05159v1) | 2026 | arXiv |
 | 49 | [Prompt engineering in LLMs for automated unit test generation: A large-scale study](https://orbilu.uni.lu/bitstream/10993/68099/1/s10664-026-10840-4.pdf) | 2026 | EMSE |
@@ -275,7 +276,7 @@ This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-ora
 | 8 | [LLM vs. Human Unit Tests: Fault Detection on Real Python Bugs](https://arxiv.org/html/2606.08588v1) | 2026 | arXiv |
 | 9 | [ReProAgent: Tool-Augmented Multi-Stage Agentic Generation of Bug Reproduction Tests from Issue Reports](https://arxiv.org/html/2607.09123v1) | 2026 | arXiv |
 | 10 | [Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing](https://arxiv.org/html/2509.01616) | 2025 | ASE |
-| 11 | [Otter: Generating Tests from Issues to Validate SWE Patche](https://raw.githubusercontent.com/mlresearch/v267/main/assets/ahmed25b/ahmed25b.pdf) | 2025 | ICML |
+| 11 | [Otter: Generating Tests from Issues to Validate SWE Patches](https://raw.githubusercontent.com/mlresearch/v267/main/assets/ahmed25b/ahmed25b.pdf) | 2025 | ICML |
 | 12 | [Vulnerability-Triggering Test Case Generation from Third-Party Libraries](https://arxiv.org/html/2409.16701v3) | 2025 | FORGE |
 | 13 | [Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models](https://orbilu.uni.lu/bitstream/10993/65665/1/3639478.3643119.pdf) | 2024 | ICSE |
 | 14 | [Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction](https://arxiv.org/pdf/2209.11515v3) | 2023 | ICSE |
@@ -394,3 +395,7 @@ To recompute the statistics from the repository root:
 ```sh
 python3 data/recompute.py
 ```
+
+## License
+
+This repository, including the paper list and the extraction data under `data/`, is released under the [Creative Commons Attribution 4.0 International License](LICENSE) (CC BY 4.0). Primary papers and linked code retain their original rights and licenses.
