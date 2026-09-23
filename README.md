@@ -20,7 +20,7 @@ A collection of studies on large language models for unit testing, accompanying 
   - [Test Evolution](#test-evolution)
   - [Test Repair](#test-repair)
   - [Test Smell Detection](#test-smell-detection)
-  - [Test Readability Improvement (4)](#test-readability-improvement)
+  - [Test Readability Improvement](#test-readability-improvement)
   - [Test Completion](#test-completion)
   - [Test Migration](#test-migration)
   - [Test Minimization](#test-minimization)
