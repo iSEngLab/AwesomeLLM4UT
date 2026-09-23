@@ -9,25 +9,23 @@
 
 A collection of studies on large language models for unit testing, accompanying **Large Language Models for Unit Testing: A Systematic Literature Review**.
 
-The revised collection contains **228 unique studies** with a literature cutoff of **1 September 2026**. This repository snapshot was updated on **23 September 2026**. The linked 2025 manuscript is an earlier version; the data below describe the revised collection.
-
 ## Contents
 
 - [Citation](#citation)
 - [Papers by Unit Testing Task](#papers-by-unit-testing-task)
-  - [Test Generation (144)](#test-generation)
-  - [Test Oracle Generation (37)](#test-oracle-generation)
-  - [Test Augmentation (15)](#test-augmentation)
-  - [Bug Reproduction (14)](#bug-reproduction)
-  - [Test Evolution (13)](#test-evolution)
-  - [Test Repair (6)](#test-repair)
-  - [Test Smell Detection (4)](#test-smell-detection)
+  - [Test Generation](#test-generation)
+  - [Test Oracle Generation](#test-oracle-generation)
+  - [Test Augmentation](#test-augmentation)
+  - [Bug Reproduction](#bug-reproduction)
+  - [Test Evolution](#test-evolution)
+  - [Test Repair](#test-repair)
+  - [Test Smell Detection](#test-smell-detection)
   - [Test Readability Improvement (4)](#test-readability-improvement)
-  - [Test Completion (3)](#test-completion)
-  - [Test Migration (2)](#test-migration)
-  - [Test Minimization (2)](#test-minimization)
-  - [Test Refactoring (2)](#test-refactoring)
-  - [Test-to-Code Traceability (1)](#test-to-code-traceability)
+  - [Test Completion](#test-completion)
+  - [Test Migration](#test-migration)
+  - [Test Minimization](#test-minimization)
+  - [Test Refactoring](#test-refactoring)
+  - [Test-to-Code Traceability](#test-to-code-traceability)
 - [Related Surveys](#related-surveys)
 - [Star History](#star-history)
 - [Extraction Data](#extraction-data)
