@@ -25,7 +25,7 @@ A collection of studies on large language models for unit testing, accompanying 
   - [Test Migration](#test-migration)
   - [Test Minimization](#test-minimization)
   - [Test Refactoring](#test-refactoring)
-  - [Test-to-Code Traceability](#test-to-code-traceability)
+  - [Test-to-Code Tracing](#test-to-code-tracing)
 - [Related Surveys](#related-surveys)
 - [Star History](#star-history)
 - [Extraction Data](#extraction-data)
@@ -49,8 +49,6 @@ A collection of studies on large language models for unit testing, accompanying 
 Studies may address multiple tasks and therefore appear in more than one section below. There are 247 task memberships across the 228 unique studies. Assertion generation is included under Test Oracle Generation, alongside whole-oracle and exceptional-oracle generation.
 
 ### Test Generation
-
-144 studies.
 
 | No. | Title | Year | Venue |
 |---|---|---|---|
@@ -201,8 +199,6 @@ Studies may address multiple tasks and therefore appear in more than one section
 
 ### Test Oracle Generation
 
-37 studies.
-
 This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-oracle studies. The subcategory for each study is recorded in the data.
 
 | No. | Title | Year | Venue |
@@ -247,8 +243,6 @@ This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-ora
 
 ### Test Augmentation
 
-15 studies.
-
 | No. | Title | Year | Venue |
 |---|---|---|---|
 | 1 | [Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting](https://arxiv.org/html/2602.12256v1) | 2026 | ICPC |
@@ -269,8 +263,6 @@ This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-ora
 
 ### Bug Reproduction
 
-14 studies.
-
 | No. | Title | Year | Venue |
 |---|---|---|---|
 | 1 | [AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](https://arxiv.org/html/2507.17542v2) | 2026 | ICSE |
@@ -290,8 +282,6 @@ This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-ora
 
 ### Test Evolution
 
-13 studies.
-
 | No. | Title | Year | Venue |
 |---|---|---|---|
 | 1 | [Exploring the integration of large language models in industrial test maintenance processes](https://greg4cr.github.io/pdf/26maintenancellm.pdf) | 2026 | JSS |
@@ -310,8 +300,6 @@ This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-ora
 
 ### Test Repair
 
-6 studies.
-
 | No. | Title | Year | Venue |
 |---|---|---|---|
 | 1 | [MultiFileTest: A Multi-File-Level LLM Unit Test Generation Benchmark and Impact of Error Fixing Mechanisms](https://aclanthology.org/2026.findings-acl.1403.pdf) | 2026 | ACL |
@@ -323,8 +311,6 @@ This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-ora
 
 ### Test Smell Detection
 
-4 studies.
-
 | No. | Title | Year | Venue |
 |---|---|---|---|
 | 1 | [Test smells in LLM-Generated Unit Tests](https://arxiv.org/html/2410.10628v3) | 2026 | TOSEM |
@@ -333,8 +319,6 @@ This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-ora
 | 4 | [Evaluating Large Language Models in Detecting Test Smells](https://sol.sbc.org.br/index.php/sbes/article/download/30411/30217/) | 2024 | SBES |
 
 ### Test Readability Improvement
-
-4 studies.
 
 | No. | Title | Year | Venue |
 |---|---|---|---|
@@ -345,8 +329,6 @@ This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-ora
 
 ### Test Completion
 
-3 studies.
-
 | No. | Title | Year | Venue |
 |---|---|---|---|
 | 1 | [Harnessing the Power of LLMs: Automating Unit Test Generation for High-Performance Computing](https://arxiv.org/pdf/2407.05202v1) | 2024 | arXiv |
@@ -355,16 +337,12 @@ This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-ora
 
 ### Test Migration
 
-2 studies.
-
 | No. | Title | Year | Venue |
 |---|---|---|---|
 | 1 | [Automated Knowledge-Aware Test Reuse](https://dl.acm.org/doi/epdf/10.1145/3808146) | 2026 | FSE |
 | 2 | [IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration](https://arxiv.org/html/2606.25588) | 2026 | FSE |
 
 ### Test Minimization
-
-2 studies.
 
 | No. | Title | Year | Venue |
 |---|---|---|---|
@@ -373,20 +351,16 @@ This category includes 28 assertion-oracle, 7 whole-oracle and 2 exceptional-ora
 
 ### Test Refactoring
 
-2 studies.
-
 | No. | Title | Year | Venue |
 |---|---|---|---|
 | 1 | [Humanizing Automatically Generated Unit Test Suites with LLM-Based Refactoring](https://arxiv.org/html/2606.28229v2) | 2026 | arXiv |
 | 2 | [Automated Unit Test Refactoring](https://xing-hu.github.io/assets/papers/FSE25TestRefactoring.pdf) | 2025 | FSE |
 
-### Test-to-Code Traceability
-
-1 study.
+### Test-to-Code Tracing
 
 | No. | Title | Year | Venue |
 |---|---|---|---|
-| 1 | [Method-Level Test-to-Code Traceability Link Construction by Semantic Correlation Learning](https://yanmeng.github.io/papers/TSE241.pdf) | 2024 | TSE |
+| 1 | [Method-Level Test-to-Code Tracing Link Construction by Semantic Correlation Learning](https://yanmeng.github.io/papers/TSE241.pdf) | 2024 | TSE |
 
 ## Related Surveys
 

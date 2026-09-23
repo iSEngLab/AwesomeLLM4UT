@@ -1,0 +1,4580 @@
+﻿dimension,category,study_id
+year,2026,U017
+year,2026,U025
+year,2026,U032
+year,2026,U046
+year,2026,U071
+year,2026,U082
+year,2026,U086
+year,2026,U107
+year,2026,U115
+year,2026,U116
+year,2026,U117
+year,2026,U118
+year,2026,U119
+year,2026,U120
+year,2026,U122
+year,2026,U123
+year,2026,U124
+year,2026,U125
+year,2026,U126
+year,2026,U127
+year,2026,U128
+year,2026,U129
+year,2026,U130
+year,2026,U131
+year,2026,U132
+year,2026,U133
+year,2026,U134
+year,2026,U135
+year,2026,U136
+year,2026,U137
+year,2026,U140
+year,2026,U141
+year,2026,U142
+year,2026,U145
+year,2026,U146
+year,2026,U147
+year,2026,U148
+year,2026,U149
+year,2026,U153
+year,2026,U154
+year,2026,U155
+year,2026,U156
+year,2026,U157
+year,2026,U158
+year,2026,U159
+year,2026,U160
+year,2026,U162
+year,2026,U163
+year,2026,U165
+year,2026,U166
+year,2026,U190
+year,2026,U192
+year,2026,U193
+year,2026,U194
+year,2026,U195
+year,2026,U196
+year,2026,U197
+year,2026,U198
+year,2026,U199
+year,2026,U200
+year,2026,U201
+year,2026,U202
+year,2026,U203
+year,2026,U204
+year,2026,U206
+year,2026,U207
+year,2026,U208
+year,2026,U209
+year,2026,U210
+year,2026,U211
+year,2026,U212
+year,2026,U213
+year,2026,U214
+year,2026,U215
+year,2026,U216
+year,2026,U217
+year,2026,U219
+year,2026,U220
+year,2026,U221
+year,2026,U222
+year,2026,U223
+year,2026,U224
+year,2026,U225
+year,2026,U226
+year,2026,U227
+year,2026,U229
+year,2026,U230
+year,2026,U231
+year,2026,U232
+year,2026,U233
+year,2026,U234
+year,2026,U235
+year,2026,U236
+year,2026,U237
+year,2026,U238
+year,2026,U239
+year,2025,SN001
+year,2025,SN002
+year,2025,SN003
+year,2025,SN004
+year,2025,SN005
+year,2025,SN006
+year,2025,SN007
+year,2025,SN008
+year,2025,SN010
+year,2025,SN011
+year,2025,SN012
+year,2025,SN013
+year,2025,SN014
+year,2025,SN015
+year,2025,SN016
+year,2025,SN017
+year,2025,U009
+year,2025,U018
+year,2025,U020
+year,2025,U026
+year,2025,U029
+year,2025,U042
+year,2025,U043
+year,2025,U051
+year,2025,U054
+year,2025,U055
+year,2025,U057
+year,2025,U058
+year,2025,U059
+year,2025,U062
+year,2025,U064
+year,2025,U066
+year,2025,U068
+year,2025,U069
+year,2025,U073
+year,2025,U075
+year,2025,U077
+year,2025,U078
+year,2025,U088
+year,2025,U091
+year,2025,U092
+year,2025,U094
+year,2025,U096
+year,2025,U097
+year,2025,U098
+year,2025,U099
+year,2025,U100
+year,2025,U102
+year,2025,U104
+year,2025,U105
+year,2025,U106
+year,2025,U108
+year,2025,U109
+year,2025,U110
+year,2025,U111
+year,2025,U167
+year,2025,U169
+year,2025,U171
+year,2025,U172
+year,2025,U173
+year,2025,U174
+year,2025,U175
+year,2025,U176
+year,2025,U177
+year,2025,U178
+year,2025,U179
+year,2025,U180
+year,2025,U181
+year,2025,U182
+year,2025,U185
+year,2025,U189
+year,2025,U191
+year,2025,U205
+year,2024,SN009
+year,2024,U013
+year,2024,U014
+year,2024,U015
+year,2024,U016
+year,2024,U019
+year,2024,U022
+year,2024,U023
+year,2024,U024
+year,2024,U030
+year,2024,U035
+year,2024,U036
+year,2024,U038
+year,2024,U039
+year,2024,U041
+year,2024,U044
+year,2024,U045
+year,2024,U047
+year,2024,U048
+year,2024,U049
+year,2024,U050
+year,2024,U052
+year,2024,U053
+year,2024,U056
+year,2024,U060
+year,2024,U061
+year,2024,U063
+year,2024,U065
+year,2024,U067
+year,2024,U070
+year,2024,U072
+year,2024,U074
+year,2024,U079
+year,2024,U080
+year,2024,U081
+year,2024,U084
+year,2024,U087
+year,2024,U090
+year,2024,U093
+year,2024,U095
+year,2024,U101
+year,2024,U188
+year,2023,U004
+year,2023,U006
+year,2023,U007
+year,2023,U008
+year,2023,U010
+year,2023,U012
+year,2023,U027
+year,2023,U028
+year,2023,U033
+year,2023,U034
+year,2023,U040
+year,2023,U083
+year,2023,U089
+year,2023,U103
+year,2022,U005
+year,2022,U011
+year,2021,U002
+venue,arXiv,SN005
+venue,arXiv,SN011
+venue,arXiv,SN012
+venue,arXiv,SN013
+venue,arXiv,SN014
+venue,arXiv,U002
+venue,arXiv,U007
+venue,arXiv,U038
+venue,arXiv,U039
+venue,arXiv,U041
+venue,arXiv,U065
+venue,arXiv,U067
+venue,arXiv,U072
+venue,arXiv,U074
+venue,arXiv,U079
+venue,arXiv,U080
+venue,arXiv,U094
+venue,arXiv,U099
+venue,arXiv,U191
+venue,arXiv,U204
+venue,arXiv,U205
+venue,arXiv,U213
+venue,arXiv,U214
+venue,arXiv,U215
+venue,arXiv,U216
+venue,arXiv,U217
+venue,arXiv,U219
+venue,arXiv,U220
+venue,arXiv,U221
+venue,arXiv,U222
+venue,arXiv,U223
+venue,arXiv,U224
+venue,arXiv,U225
+venue,arXiv,U226
+venue,arXiv,U229
+venue,arXiv,U230
+venue,arXiv,U231
+venue,arXiv,U232
+venue,arXiv,U233
+venue,arXiv,U234
+venue,arXiv,U235
+venue,ICSE,U005
+venue,ICSE,U008
+venue,ICSE,U027
+venue,ICSE,U033
+venue,ICSE,U034
+venue,ICSE,U035
+venue,ICSE,U046
+venue,ICSE,U050
+venue,ICSE,U055
+venue,ICSE,U057
+venue,ICSE,U058
+venue,ICSE,U066
+venue,ICSE,U096
+venue,ICSE,U100
+venue,ICSE,U105
+venue,ICSE,U107
+venue,ICSE,U115
+venue,ICSE,U116
+venue,ICSE,U117
+venue,ICSE,U118
+venue,ICSE,U120
+venue,ICSE,U122
+venue,ICSE,U123
+venue,ICSE,U124
+venue,ICSE,U125
+venue,ICSE,U126
+venue,ICSE,U127
+venue,ICSE,U167
+venue,ICSE,U169
+venue,ASE,SN001
+venue,ASE,U004
+venue,ASE,U006
+venue,ASE,U015
+venue,ASE,U036
+venue,ASE,U049
+venue,ASE,U103
+venue,ASE,U136
+venue,ASE,U137
+venue,ASE,U140
+venue,ASE,U141
+venue,ASE,U171
+venue,ASE,U172
+venue,ASE,U173
+venue,ASE,U174
+venue,ASE,U175
+venue,ASE,U176
+venue,ASE,U177
+venue,ASE,U178
+venue,ASE,U179
+venue,ASE,U185
+venue,FSE,U014
+venue,FSE,U019
+venue,FSE,U040
+venue,FSE,U042
+venue,FSE,U044
+venue,FSE,U045
+venue,FSE,U064
+venue,FSE,U078
+venue,FSE,U095
+venue,FSE,U102
+venue,FSE,U104
+venue,FSE,U128
+venue,FSE,U129
+venue,FSE,U130
+venue,FSE,U131
+venue,FSE,U132
+venue,FSE,U133
+venue,FSE,U134
+venue,FSE,U135
+venue,ISSTA,U024
+venue,ISSTA,U063
+venue,ISSTA,U088
+venue,ISSTA,U089
+venue,ISSTA,U110
+venue,ISSTA,U111
+venue,ISSTA,U142
+venue,ISSTA,U145
+venue,ISSTA,U146
+venue,ISSTA,U147
+venue,ISSTA,U148
+venue,ISSTA,U149
+venue,ISSTA,U153
+venue,ISSTA,U154
+venue,ISSTA,U155
+venue,ISSTA,U180
+venue,TSE,U016
+venue,TSE,U026
+venue,TSE,U028
+venue,TSE,U029
+venue,TSE,U048
+venue,TSE,U071
+venue,TSE,U082
+venue,TSE,U084
+venue,TSE,U087
+venue,TSE,U090
+venue,TSE,U093
+venue,TSE,U108
+venue,TSE,U156
+venue,TSE,U181
+venue,TSE,U182
+venue,TSE,U188
+venue,TOSEM,U017
+venue,TOSEM,U025
+venue,TOSEM,U051
+venue,TOSEM,U086
+venue,TOSEM,U109
+venue,TOSEM,U119
+venue,TOSEM,U157
+venue,TOSEM,U158
+venue,TOSEM,U159
+venue,TOSEM,U160
+venue,TOSEM,U162
+venue,TOSEM,U163
+venue,TOSEM,U165
+venue,TOSEM,U166
+venue,ICST,SN010
+venue,ICST,U075
+venue,ICST,U077
+venue,ICST,U097
+venue,ICST,U198
+venue,ICST,U199
+venue,JSS,U043
+venue,JSS,U098
+venue,JSS,U208
+venue,JSS,U209
+venue,JSS,U236
+venue,ICLR,U068
+venue,ICLR,U083
+venue,ICLR,U201
+venue,ICLR,U202
+venue,IST,U013
+venue,IST,U022
+venue,IST,U190
+venue,IST,U210
+venue,SANER,U106
+venue,SANER,U195
+venue,SANER,U196
+venue,SANER,U197
+venue,ACL,U018
+venue,ACL,U091
+venue,ACL,U203
+venue,AST,SN004
+venue,AST,U011
+venue,AST,U101
+venue,EMSE,SN003
+venue,EMSE,U211
+venue,EMSE,U237
+venue,ICPC,U192
+venue,ICPC,U193
+venue,ICPC,U194
+venue,ISSRE,U020
+venue,ISSRE,U030
+venue,ISSRE,U227
+venue,AITest,U238
+venue,AITest,U239
+venue,COMPSAC,U206
+venue,COMPSAC,U207
+venue,EASE,SN017
+venue,EASE,U047
+venue,EMNLP,SN009
+venue,EMNLP,U054
+venue,FORGE,U062
+venue,FORGE,U081
+venue,NAACL,SN006
+venue,NAACL,U073
+venue,NeurIPS,SN008
+venue,NeurIPS,U061
+venue,APSEC,U059
+venue,ASYU,U060
+venue,AUSE,SN016
+venue,COLM,SN007
+venue,DeepTest,U009
+venue,Expert Systems,U212
+venue,FCS,U032
+venue,FGCS,U070
+venue,FaSE4Games,U053
+venue,ICIC,U189
+venue,ICML,U092
+venue,Internetware,U023
+venue,JCAL,U069
+venue,JCL,SN015
+venue,LLM4Code,U056
+venue,OOPSLA,SN002
+venue,QRS,U012
+venue,SAST,U010
+venue,SBES,U052
+venue,SCAM,U200
+ccf,A,SN001
+ccf,A,SN002
+ccf,A,SN008
+ccf,A,U004
+ccf,A,U005
+ccf,A,U006
+ccf,A,U008
+ccf,A,U014
+ccf,A,U015
+ccf,A,U016
+ccf,A,U017
+ccf,A,U018
+ccf,A,U019
+ccf,A,U024
+ccf,A,U025
+ccf,A,U026
+ccf,A,U027
+ccf,A,U028
+ccf,A,U029
+ccf,A,U033
+ccf,A,U034
+ccf,A,U035
+ccf,A,U036
+ccf,A,U040
+ccf,A,U042
+ccf,A,U044
+ccf,A,U045
+ccf,A,U046
+ccf,A,U048
+ccf,A,U049
+ccf,A,U050
+ccf,A,U051
+ccf,A,U055
+ccf,A,U057
+ccf,A,U058
+ccf,A,U061
+ccf,A,U063
+ccf,A,U064
+ccf,A,U066
+ccf,A,U068
+ccf,A,U071
+ccf,A,U078
+ccf,A,U082
+ccf,A,U083
+ccf,A,U084
+ccf,A,U086
+ccf,A,U087
+ccf,A,U088
+ccf,A,U089
+ccf,A,U090
+ccf,A,U091
+ccf,A,U092
+ccf,A,U093
+ccf,A,U095
+ccf,A,U096
+ccf,A,U100
+ccf,A,U102
+ccf,A,U103
+ccf,A,U104
+ccf,A,U105
+ccf,A,U107
+ccf,A,U108
+ccf,A,U109
+ccf,A,U110
+ccf,A,U111
+ccf,A,U115
+ccf,A,U116
+ccf,A,U117
+ccf,A,U118
+ccf,A,U119
+ccf,A,U120
+ccf,A,U122
+ccf,A,U123
+ccf,A,U124
+ccf,A,U125
+ccf,A,U126
+ccf,A,U127
+ccf,A,U128
+ccf,A,U129
+ccf,A,U130
+ccf,A,U131
+ccf,A,U132
+ccf,A,U133
+ccf,A,U134
+ccf,A,U135
+ccf,A,U136
+ccf,A,U137
+ccf,A,U140
+ccf,A,U141
+ccf,A,U142
+ccf,A,U145
+ccf,A,U146
+ccf,A,U147
+ccf,A,U148
+ccf,A,U149
+ccf,A,U153
+ccf,A,U154
+ccf,A,U155
+ccf,A,U156
+ccf,A,U157
+ccf,A,U158
+ccf,A,U159
+ccf,A,U160
+ccf,A,U162
+ccf,A,U163
+ccf,A,U165
+ccf,A,U166
+ccf,A,U167
+ccf,A,U169
+ccf,A,U171
+ccf,A,U172
+ccf,A,U173
+ccf,A,U174
+ccf,A,U175
+ccf,A,U176
+ccf,A,U177
+ccf,A,U178
+ccf,A,U179
+ccf,A,U180
+ccf,A,U181
+ccf,A,U182
+ccf,A,U185
+ccf,A,U188
+ccf,A,U201
+ccf,A,U202
+ccf,A,U203
+ccf,Not applicable (preprint),SN005
+ccf,Not applicable (preprint),SN011
+ccf,Not applicable (preprint),SN012
+ccf,Not applicable (preprint),SN013
+ccf,Not applicable (preprint),SN014
+ccf,Not applicable (preprint),U002
+ccf,Not applicable (preprint),U007
+ccf,Not applicable (preprint),U038
+ccf,Not applicable (preprint),U039
+ccf,Not applicable (preprint),U041
+ccf,Not applicable (preprint),U065
+ccf,Not applicable (preprint),U067
+ccf,Not applicable (preprint),U072
+ccf,Not applicable (preprint),U074
+ccf,Not applicable (preprint),U079
+ccf,Not applicable (preprint),U080
+ccf,Not applicable (preprint),U094
+ccf,Not applicable (preprint),U099
+ccf,Not applicable (preprint),U191
+ccf,Not applicable (preprint),U204
+ccf,Not applicable (preprint),U205
+ccf,Not applicable (preprint),U213
+ccf,Not applicable (preprint),U214
+ccf,Not applicable (preprint),U215
+ccf,Not applicable (preprint),U216
+ccf,Not applicable (preprint),U217
+ccf,Not applicable (preprint),U219
+ccf,Not applicable (preprint),U220
+ccf,Not applicable (preprint),U221
+ccf,Not applicable (preprint),U222
+ccf,Not applicable (preprint),U223
+ccf,Not applicable (preprint),U224
+ccf,Not applicable (preprint),U225
+ccf,Not applicable (preprint),U226
+ccf,Not applicable (preprint),U229
+ccf,Not applicable (preprint),U230
+ccf,Not applicable (preprint),U231
+ccf,Not applicable (preprint),U232
+ccf,Not applicable (preprint),U233
+ccf,Not applicable (preprint),U234
+ccf,Not applicable (preprint),U235
+ccf,B,SN003
+ccf,B,SN006
+ccf,B,SN009
+ccf,B,SN016
+ccf,B,U013
+ccf,B,U020
+ccf,B,U022
+ccf,B,U030
+ccf,B,U032
+ccf,B,U043
+ccf,B,U054
+ccf,B,U073
+ccf,B,U098
+ccf,B,U106
+ccf,B,U190
+ccf,B,U192
+ccf,B,U193
+ccf,B,U194
+ccf,B,U195
+ccf,B,U196
+ccf,B,U197
+ccf,B,U208
+ccf,B,U209
+ccf,B,U210
+ccf,B,U211
+ccf,B,U227
+ccf,B,U236
+ccf,B,U237
+ccf,C,SN010
+ccf,C,SN017
+ccf,C,U012
+ccf,C,U023
+ccf,C,U047
+ccf,C,U059
+ccf,C,U070
+ccf,C,U075
+ccf,C,U077
+ccf,C,U097
+ccf,C,U189
+ccf,C,U198
+ccf,C,U199
+ccf,C,U200
+ccf,C,U206
+ccf,C,U207
+ccf,C,U212
+ccf,Not listed in CCF,SN004
+ccf,Not listed in CCF,SN007
+ccf,Not listed in CCF,U009
+ccf,Not listed in CCF,U010
+ccf,Not listed in CCF,U011
+ccf,Not listed in CCF,U052
+ccf,Not listed in CCF,U053
+ccf,Not listed in CCF,U056
+ccf,Not listed in CCF,U060
+ccf,Not listed in CCF,U062
+ccf,Not listed in CCF,U069
+ccf,Not listed in CCF,U081
+ccf,Not listed in CCF,U101
+ccf,Not listed in CCF,U238
+ccf,Not listed in CCF,U239
+ccf,Not verified,SN015
+language,Java,SN001
+language,Java,SN003
+language,Java,SN004
+language,Java,SN005
+language,Java,SN010
+language,Java,SN011
+language,Java,SN015
+language,Java,SN017
+language,Java,U002
+language,Java,U004
+language,Java,U005
+language,Java,U006
+language,Java,U008
+language,Java,U010
+language,Java,U011
+language,Java,U012
+language,Java,U013
+language,Java,U014
+language,Java,U015
+language,Java,U017
+language,Java,U019
+language,Java,U020
+language,Java,U024
+language,Java,U025
+language,Java,U026
+language,Java,U027
+language,Java,U028
+language,Java,U029
+language,Java,U030
+language,Java,U032
+language,Java,U033
+language,Java,U035
+language,Java,U036
+language,Java,U038
+language,Java,U039
+language,Java,U040
+language,Java,U043
+language,Java,U047
+language,Java,U048
+language,Java,U049
+language,Java,U050
+language,Java,U051
+language,Java,U052
+language,Java,U055
+language,Java,U057
+language,Java,U059
+language,Java,U062
+language,Java,U063
+language,Java,U064
+language,Java,U065
+language,Java,U066
+language,Java,U075
+language,Java,U077
+language,Java,U078
+language,Java,U079
+language,Java,U080
+language,Java,U081
+language,Java,U082
+language,Java,U087
+language,Java,U088
+language,Java,U089
+language,Java,U090
+language,Java,U093
+language,Java,U094
+language,Java,U095
+language,Java,U096
+language,Java,U097
+language,Java,U100
+language,Java,U104
+language,Java,U105
+language,Java,U106
+language,Java,U107
+language,Java,U108
+language,Java,U109
+language,Java,U111
+language,Java,U115
+language,Java,U118
+language,Java,U122
+language,Java,U124
+language,Java,U125
+language,Java,U129
+language,Java,U130
+language,Java,U133
+language,Java,U135
+language,Java,U137
+language,Java,U140
+language,Java,U142
+language,Java,U145
+language,Java,U147
+language,Java,U148
+language,Java,U154
+language,Java,U155
+language,Java,U156
+language,Java,U158
+language,Java,U159
+language,Java,U162
+language,Java,U163
+language,Java,U166
+language,Java,U167
+language,Java,U169
+language,Java,U171
+language,Java,U172
+language,Java,U173
+language,Java,U176
+language,Java,U177
+language,Java,U180
+language,Java,U181
+language,Java,U182
+language,Java,U188
+language,Java,U189
+language,Java,U190
+language,Java,U192
+language,Java,U194
+language,Java,U195
+language,Java,U196
+language,Java,U197
+language,Java,U199
+language,Java,U200
+language,Java,U203
+language,Java,U205
+language,Java,U206
+language,Java,U209
+language,Java,U210
+language,Java,U211
+language,Java,U212
+language,Java,U214
+language,Java,U217
+language,Java,U219
+language,Java,U220
+language,Java,U221
+language,Java,U222
+language,Java,U224
+language,Java,U225
+language,Java,U226
+language,Java,U231
+language,Java,U232
+language,Java,U236
+language,Java,U237
+language,Java,U238
+language,Python,SN002
+language,Python,SN006
+language,Python,SN007
+language,Python,SN008
+language,Python,SN009
+language,Python,SN012
+language,Python,SN013
+language,Python,SN016
+language,Python,U004
+language,Python,U007
+language,Python,U017
+language,Python,U018
+language,Python,U019
+language,Python,U022
+language,Python,U023
+language,Python,U034
+language,Python,U042
+language,Python,U045
+language,Python,U046
+language,Python,U049
+language,Python,U052
+language,Python,U055
+language,Python,U056
+language,Python,U060
+language,Python,U063
+language,Python,U067
+language,Python,U068
+language,Python,U071
+language,Python,U072
+language,Python,U074
+language,Python,U083
+language,Python,U084
+language,Python,U091
+language,Python,U092
+language,Python,U098
+language,Python,U099
+language,Python,U101
+language,Python,U103
+language,Python,U107
+language,Python,U116
+language,Python,U117
+language,Python,U119
+language,Python,U120
+language,Python,U122
+language,Python,U123
+language,Python,U126
+language,Python,U127
+language,Python,U128
+language,Python,U130
+language,Python,U131
+language,Python,U132
+language,Python,U134
+language,Python,U136
+language,Python,U141
+language,Python,U145
+language,Python,U153
+language,Python,U157
+language,Python,U160
+language,Python,U175
+language,Python,U178
+language,Python,U191
+language,Python,U193
+language,Python,U197
+language,Python,U198
+language,Python,U201
+language,Python,U202
+language,Python,U203
+language,Python,U205
+language,Python,U207
+language,Python,U208
+language,Python,U213
+language,Python,U215
+language,Python,U222
+language,Python,U223
+language,Python,U229
+language,Python,U230
+language,Python,U233
+language,Python,U234
+language,Python,U235
+language,Python,U239
+language,C++,U018
+language,C++,U041
+language,C++,U049
+language,C++,U053
+language,C++,U061
+language,C++,U063
+language,C++,U070
+language,C++,U086
+language,C++,U100
+language,C++,U107
+language,C++,U205
+language,C++,U227
+language,Go,U063
+language,Go,U100
+language,Go,U122
+language,Go,U146
+language,Go,U179
+language,Go,U185
+language,Go,U197
+language,Go,U204
+language,C,U049
+language,C,U069
+language,C,U070
+language,C,U100
+language,C,U110
+language,C,U216
+language,C,U227
+language,JavaScript,U016
+language,JavaScript,U052
+language,JavaScript,U063
+language,JavaScript,U149
+language,JavaScript,U165
+language,JavaScript,U203
+language,Rust,U054
+language,Rust,U058
+language,Rust,U135
+language,Rust,U174
+language,Rust,U204
+language,C#,U009
+language,C#,U052
+language,C#,U053
+language,C#,U135
+language,Kotlin,U044
+language,Kotlin,U102
+language,Ruby,U052
+language,Ruby,U204
+language,Verilog,SN014
+language,Verilog,U073
+language,Fortran,U070
+language,Julia,U204
+language,PHP,U204
+language,Smalltalk,U052
+language,SystemVerilog,U073
+language,TTCN-3,U052
+language,TypeScript,U149
+task,Test Generation,SN001
+task,Test Generation,SN003
+task,Test Generation,SN005
+task,Test Generation,SN006
+task,Test Generation,SN007
+task,Test Generation,SN008
+task,Test Generation,SN009
+task,Test Generation,SN010
+task,Test Generation,SN011
+task,Test Generation,SN012
+task,Test Generation,SN013
+task,Test Generation,SN015
+task,Test Generation,SN016
+task,Test Generation,U002
+task,Test Generation,U004
+task,Test Generation,U007
+task,Test Generation,U009
+task,Test Generation,U010
+task,Test Generation,U012
+task,Test Generation,U013
+task,Test Generation,U014
+task,Test Generation,U015
+task,Test Generation,U016
+task,Test Generation,U017
+task,Test Generation,U018
+task,Test Generation,U019
+task,Test Generation,U020
+task,Test Generation,U022
+task,Test Generation,U023
+task,Test Generation,U025
+task,Test Generation,U032
+task,Test Generation,U034
+task,Test Generation,U036
+task,Test Generation,U038
+task,Test Generation,U039
+task,Test Generation,U041
+task,Test Generation,U042
+task,Test Generation,U043
+task,Test Generation,U045
+task,Test Generation,U046
+task,Test Generation,U047
+task,Test Generation,U048
+task,Test Generation,U049
+task,Test Generation,U050
+task,Test Generation,U053
+task,Test Generation,U054
+task,Test Generation,U055
+task,Test Generation,U056
+task,Test Generation,U058
+task,Test Generation,U060
+task,Test Generation,U061
+task,Test Generation,U063
+task,Test Generation,U065
+task,Test Generation,U066
+task,Test Generation,U067
+task,Test Generation,U068
+task,Test Generation,U069
+task,Test Generation,U070
+task,Test Generation,U071
+task,Test Generation,U072
+task,Test Generation,U077
+task,Test Generation,U083
+task,Test Generation,U084
+task,Test Generation,U086
+task,Test Generation,U088
+task,Test Generation,U091
+task,Test Generation,U094
+task,Test Generation,U098
+task,Test Generation,U100
+task,Test Generation,U101
+task,Test Generation,U103
+task,Test Generation,U104
+task,Test Generation,U105
+task,Test Generation,U106
+task,Test Generation,U107
+task,Test Generation,U110
+task,Test Generation,U115
+task,Test Generation,U119
+task,Test Generation,U120
+task,Test Generation,U122
+task,Test Generation,U124
+task,Test Generation,U125
+task,Test Generation,U127
+task,Test Generation,U133
+task,Test Generation,U135
+task,Test Generation,U136
+task,Test Generation,U142
+task,Test Generation,U145
+task,Test Generation,U146
+task,Test Generation,U147
+task,Test Generation,U148
+task,Test Generation,U153
+task,Test Generation,U154
+task,Test Generation,U156
+task,Test Generation,U157
+task,Test Generation,U158
+task,Test Generation,U159
+task,Test Generation,U160
+task,Test Generation,U162
+task,Test Generation,U163
+task,Test Generation,U165
+task,Test Generation,U166
+task,Test Generation,U167
+task,Test Generation,U174
+task,Test Generation,U175
+task,Test Generation,U176
+task,Test Generation,U177
+task,Test Generation,U185
+task,Test Generation,U189
+task,Test Generation,U190
+task,Test Generation,U194
+task,Test Generation,U195
+task,Test Generation,U196
+task,Test Generation,U197
+task,Test Generation,U198
+task,Test Generation,U199
+task,Test Generation,U200
+task,Test Generation,U201
+task,Test Generation,U202
+task,Test Generation,U203
+task,Test Generation,U204
+task,Test Generation,U205
+task,Test Generation,U207
+task,Test Generation,U208
+task,Test Generation,U209
+task,Test Generation,U210
+task,Test Generation,U211
+task,Test Generation,U212
+task,Test Generation,U213
+task,Test Generation,U214
+task,Test Generation,U215
+task,Test Generation,U216
+task,Test Generation,U219
+task,Test Generation,U221
+task,Test Generation,U222
+task,Test Generation,U226
+task,Test Generation,U227
+task,Test Generation,U229
+task,Test Generation,U230
+task,Test Generation,U231
+task,Test Generation,U233
+task,Test Generation,U235
+task,Test Generation,U238
+task,Test Generation,U239
+task,Test Oracle Generation,SN004
+task,Test Oracle Generation,U005
+task,Test Oracle Generation,U008
+task,Test Oracle Generation,U011
+task,Test Oracle Generation,U026
+task,Test Oracle Generation,U027
+task,Test Oracle Generation,U028
+task,Test Oracle Generation,U040
+task,Test Oracle Generation,U051
+task,Test Oracle Generation,U054
+task,Test Oracle Generation,U073
+task,Test Oracle Generation,U074
+task,Test Oracle Generation,U078
+task,Test Oracle Generation,U079
+task,Test Oracle Generation,U080
+task,Test Oracle Generation,U081
+task,Test Oracle Generation,U088
+task,Test Oracle Generation,U089
+task,Test Oracle Generation,U090
+task,Test Oracle Generation,U095
+task,Test Oracle Generation,U096
+task,Test Oracle Generation,U097
+task,Test Oracle Generation,U099
+task,Test Oracle Generation,U105
+task,Test Oracle Generation,U108
+task,Test Oracle Generation,U109
+task,Test Oracle Generation,U137
+task,Test Oracle Generation,U140
+task,Test Oracle Generation,U159
+task,Test Oracle Generation,U173
+task,Test Oracle Generation,U180
+task,Test Oracle Generation,U181
+task,Test Oracle Generation,U191
+task,Test Oracle Generation,U224
+task,Test Oracle Generation,U225
+task,Test Oracle Generation,U227
+task,Test Oracle Generation,U232
+task,Test Augmentation,U004
+task,Test Augmentation,U024
+task,Test Augmentation,U044
+task,Test Augmentation,U059
+task,Test Augmentation,U068
+task,Test Augmentation,U102
+task,Test Augmentation,U118
+task,Test Augmentation,U126
+task,Test Augmentation,U129
+task,Test Augmentation,U131
+task,Test Augmentation,U141
+task,Test Augmentation,U149
+task,Test Augmentation,U193
+task,Test Augmentation,U206
+task,Test Augmentation,U220
+task,Bug Reproduction,U033
+task,Bug Reproduction,U035
+task,Bug Reproduction,U062
+task,Bug Reproduction,U082
+task,Bug Reproduction,U092
+task,Bug Reproduction,U116
+task,Bug Reproduction,U117
+task,Bug Reproduction,U123
+task,Bug Reproduction,U132
+task,Bug Reproduction,U178
+task,Bug Reproduction,U215
+task,Bug Reproduction,U223
+task,Bug Reproduction,U234
+task,Bug Reproduction,U237
+task,Test Evolution,SN002
+task,Test Evolution,U006
+task,Test Evolution,U029
+task,Test Evolution,U030
+task,Test Evolution,U088
+task,Test Evolution,U111
+task,Test Evolution,U155
+task,Test Evolution,U171
+task,Test Evolution,U172
+task,Test Evolution,U182
+task,Test Evolution,U192
+task,Test Evolution,U220
+task,Test Evolution,U236
+task,Test Repair,SN014
+task,Test Repair,U071
+task,Test Repair,U169
+task,Test Repair,U179
+task,Test Repair,U188
+task,Test Repair,U203
+task,Test Readability Improvement,SN017
+task,Test Readability Improvement,U039
+task,Test Readability Improvement,U057
+task,Test Readability Improvement,U075
+task,Test Smell Detection,U009
+task,Test Smell Detection,U052
+task,Test Smell Detection,U064
+task,Test Smell Detection,U166
+task,Test Completion,U004
+task,Test Completion,U008
+task,Test Completion,U041
+task,Test Migration,U128
+task,Test Migration,U130
+task,Test Minimization,U087
+task,Test Minimization,U134
+task,Test Refactoring,U064
+task,Test Refactoring,U217
+task,Test-to-Code Tracing,U093
+study_type,Approach,SN001
+study_type,Approach,SN002
+study_type,Approach,SN003
+study_type,Approach,SN004
+study_type,Approach,SN005
+study_type,Approach,SN007
+study_type,Approach,SN008
+study_type,Approach,SN010
+study_type,Approach,SN011
+study_type,Approach,SN012
+study_type,Approach,SN013
+study_type,Approach,SN014
+study_type,Approach,SN015
+study_type,Approach,SN016
+study_type,Approach,SN017
+study_type,Approach,U002
+study_type,Approach,U004
+study_type,Approach,U005
+study_type,Approach,U006
+study_type,Approach,U008
+study_type,Approach,U009
+study_type,Approach,U011
+study_type,Approach,U013
+study_type,Approach,U014
+study_type,Approach,U016
+study_type,Approach,U017
+study_type,Approach,U018
+study_type,Approach,U019
+study_type,Approach,U020
+study_type,Approach,U022
+study_type,Approach,U024
+study_type,Approach,U025
+study_type,Approach,U026
+study_type,Approach,U027
+study_type,Approach,U029
+study_type,Approach,U030
+study_type,Approach,U033
+study_type,Approach,U034
+study_type,Approach,U036
+study_type,Approach,U038
+study_type,Approach,U039
+study_type,Approach,U041
+study_type,Approach,U042
+study_type,Approach,U043
+study_type,Approach,U044
+study_type,Approach,U045
+study_type,Approach,U049
+study_type,Approach,U050
+study_type,Approach,U051
+study_type,Approach,U054
+study_type,Approach,U055
+study_type,Approach,U057
+study_type,Approach,U058
+study_type,Approach,U059
+study_type,Approach,U060
+study_type,Approach,U062
+study_type,Approach,U063
+study_type,Approach,U064
+study_type,Approach,U066
+study_type,Approach,U071
+study_type,Approach,U072
+study_type,Approach,U074
+study_type,Approach,U075
+study_type,Approach,U080
+study_type,Approach,U081
+study_type,Approach,U082
+study_type,Approach,U083
+study_type,Approach,U084
+study_type,Approach,U086
+study_type,Approach,U087
+study_type,Approach,U091
+study_type,Approach,U092
+study_type,Approach,U093
+study_type,Approach,U094
+study_type,Approach,U096
+study_type,Approach,U097
+study_type,Approach,U098
+study_type,Approach,U099
+study_type,Approach,U100
+study_type,Approach,U102
+study_type,Approach,U103
+study_type,Approach,U104
+study_type,Approach,U105
+study_type,Approach,U106
+study_type,Approach,U108
+study_type,Approach,U109
+study_type,Approach,U110
+study_type,Approach,U111
+study_type,Approach,U115
+study_type,Approach,U116
+study_type,Approach,U117
+study_type,Approach,U118
+study_type,Approach,U119
+study_type,Approach,U120
+study_type,Approach,U122
+study_type,Approach,U123
+study_type,Approach,U124
+study_type,Approach,U125
+study_type,Approach,U126
+study_type,Approach,U127
+study_type,Approach,U128
+study_type,Approach,U129
+study_type,Approach,U130
+study_type,Approach,U131
+study_type,Approach,U132
+study_type,Approach,U133
+study_type,Approach,U134
+study_type,Approach,U135
+study_type,Approach,U136
+study_type,Approach,U137
+study_type,Approach,U141
+study_type,Approach,U142
+study_type,Approach,U145
+study_type,Approach,U146
+study_type,Approach,U148
+study_type,Approach,U149
+study_type,Approach,U153
+study_type,Approach,U154
+study_type,Approach,U155
+study_type,Approach,U156
+study_type,Approach,U157
+study_type,Approach,U158
+study_type,Approach,U159
+study_type,Approach,U162
+study_type,Approach,U163
+study_type,Approach,U165
+study_type,Approach,U167
+study_type,Approach,U169
+study_type,Approach,U171
+study_type,Approach,U172
+study_type,Approach,U174
+study_type,Approach,U175
+study_type,Approach,U176
+study_type,Approach,U178
+study_type,Approach,U179
+study_type,Approach,U180
+study_type,Approach,U181
+study_type,Approach,U182
+study_type,Approach,U185
+study_type,Approach,U188
+study_type,Approach,U189
+study_type,Approach,U190
+study_type,Approach,U191
+study_type,Approach,U192
+study_type,Approach,U194
+study_type,Approach,U195
+study_type,Approach,U197
+study_type,Approach,U198
+study_type,Approach,U199
+study_type,Approach,U200
+study_type,Approach,U201
+study_type,Approach,U202
+study_type,Approach,U205
+study_type,Approach,U209
+study_type,Approach,U210
+study_type,Approach,U212
+study_type,Approach,U213
+study_type,Approach,U214
+study_type,Approach,U216
+study_type,Approach,U217
+study_type,Approach,U219
+study_type,Approach,U220
+study_type,Approach,U221
+study_type,Approach,U222
+study_type,Approach,U223
+study_type,Approach,U225
+study_type,Approach,U226
+study_type,Approach,U227
+study_type,Approach,U229
+study_type,Approach,U231
+study_type,Approach,U232
+study_type,Approach,U234
+study_type,Approach,U236
+study_type,Approach,U237
+study_type,Approach,U238
+study_type,Empirical,SN006
+study_type,Empirical,SN009
+study_type,Empirical,SN017
+study_type,Empirical,U007
+study_type,Empirical,U010
+study_type,Empirical,U012
+study_type,Empirical,U015
+study_type,Empirical,U016
+study_type,Empirical,U018
+study_type,Empirical,U019
+study_type,Empirical,U023
+study_type,Empirical,U028
+study_type,Empirical,U035
+study_type,Empirical,U040
+study_type,Empirical,U046
+study_type,Empirical,U047
+study_type,Empirical,U048
+study_type,Empirical,U051
+study_type,Empirical,U052
+study_type,Empirical,U053
+study_type,Empirical,U055
+study_type,Empirical,U056
+study_type,Empirical,U060
+study_type,Empirical,U065
+study_type,Empirical,U067
+study_type,Empirical,U069
+study_type,Empirical,U070
+study_type,Empirical,U077
+study_type,Empirical,U078
+study_type,Empirical,U079
+study_type,Empirical,U088
+study_type,Empirical,U089
+study_type,Empirical,U090
+study_type,Empirical,U095
+study_type,Empirical,U101
+study_type,Empirical,U107
+study_type,Empirical,U140
+study_type,Empirical,U147
+study_type,Empirical,U160
+study_type,Empirical,U166
+study_type,Empirical,U173
+study_type,Empirical,U177
+study_type,Empirical,U193
+study_type,Empirical,U196
+study_type,Empirical,U203
+study_type,Empirical,U204
+study_type,Empirical,U206
+study_type,Empirical,U207
+study_type,Empirical,U208
+study_type,Empirical,U211
+study_type,Empirical,U212
+study_type,Empirical,U215
+study_type,Empirical,U224
+study_type,Empirical,U230
+study_type,Empirical,U233
+study_type,Empirical,U235
+study_type,Empirical,U237
+study_type,Empirical,U239
+study_type,Benchmark,SN006
+study_type,Benchmark,U032
+study_type,Benchmark,U061
+study_type,Benchmark,U068
+study_type,Benchmark,U073
+study_type,Benchmark,U092
+study_type,Benchmark,U095
+study_type,Benchmark,U129
+study_type,Benchmark,U140
+study_type,Benchmark,U141
+study_type,Benchmark,U154
+study_type,Benchmark,U155
+study_type,Benchmark,U160
+study_type,Benchmark,U171
+study_type,Benchmark,U173
+study_type,Benchmark,U175
+study_type,Benchmark,U177
+study_type,Benchmark,U178
+study_type,Benchmark,U196
+study_type,Benchmark,U203
+study_type,Benchmark,U204
+study_type,Benchmark,U213
+study_type,Benchmark,U220
+study_type,Benchmark,U227
+study_type,Dataset,U002
+study_type,Dataset,U063
+study_type,Dataset,U082
+study_type,Dataset,U095
+study_type,Dataset,U106
+study_type,Dataset,U118
+study_type,Dataset,U136
+study_type,Dataset,U158
+study_type,Dataset,U163
+study_type,Dataset,U177
+study_type,Dataset,U180
+study_type,Dataset,U181
+study_type,Dataset,U182
+study_type,Dataset,U197
+study_type,Dataset,U206
+model,GPT-3.5,SN003
+model,GPT-3.5,SN006
+model,GPT-3.5,SN009
+model,GPT-3.5,SN010
+model,GPT-3.5,SN011
+model,GPT-3.5,SN013
+model,GPT-3.5,SN016
+model,GPT-3.5,U010
+model,GPT-3.5,U012
+model,GPT-3.5,U014
+model,GPT-3.5,U016
+model,GPT-3.5,U018
+model,GPT-3.5,U019
+model,GPT-3.5,U020
+model,GPT-3.5,U026
+model,GPT-3.5,U032
+model,GPT-3.5,U036
+model,GPT-3.5,U038
+model,GPT-3.5,U039
+model,GPT-3.5,U041
+model,GPT-3.5,U043
+model,GPT-3.5,U046
+model,GPT-3.5,U047
+model,GPT-3.5,U048
+model,GPT-3.5,U049
+model,GPT-3.5,U056
+model,GPT-3.5,U058
+model,GPT-3.5,U059
+model,GPT-3.5,U060
+model,GPT-3.5,U062
+model,GPT-3.5,U070
+model,GPT-3.5,U071
+model,GPT-3.5,U072
+model,GPT-3.5,U073
+model,GPT-3.5,U074
+model,GPT-3.5,U075
+model,GPT-3.5,U079
+model,GPT-3.5,U084
+model,GPT-3.5,U086
+model,GPT-3.5,U088
+model,GPT-3.5,U090
+model,GPT-3.5,U093
+model,GPT-3.5,U094
+model,GPT-3.5,U099
+model,GPT-3.5,U103
+model,GPT-3.5,U107
+model,GPT-3.5,U111
+model,GPT-3.5,U118
+model,GPT-3.5,U166
+model,GPT-3.5,U167
+model,GPT-3.5,U169
+model,GPT-3.5,U188
+model,GPT-3.5,U203
+model,GPT-3.5,U211
+model,GPT-3.5,U237
+model,CodeLlama,SN001
+model,CodeLlama,SN006
+model,CodeLlama,SN010
+model,CodeLlama,SN017
+model,CodeLlama,U015
+model,CodeLlama,U017
+model,CodeLlama,U019
+model,CodeLlama,U020
+model,CodeLlama,U023
+model,CodeLlama,U032
+model,CodeLlama,U043
+model,CodeLlama,U049
+model,CodeLlama,U051
+model,CodeLlama,U053
+model,CodeLlama,U054
+model,CodeLlama,U055
+model,CodeLlama,U057
+model,CodeLlama,U061
+model,CodeLlama,U065
+model,CodeLlama,U066
+model,CodeLlama,U068
+model,CodeLlama,U070
+model,CodeLlama,U072
+model,CodeLlama,U073
+model,CodeLlama,U077
+model,CodeLlama,U078
+model,CodeLlama,U087
+model,CodeLlama,U088
+model,CodeLlama,U100
+model,CodeLlama,U104
+model,CodeLlama,U105
+model,CodeLlama,U107
+model,CodeLlama,U108
+model,CodeLlama,U109
+model,CodeLlama,U140
+model,CodeLlama,U142
+model,CodeLlama,U153
+model,CodeLlama,U158
+model,CodeLlama,U159
+model,CodeLlama,U160
+model,CodeLlama,U166
+model,CodeLlama,U176
+model,CodeLlama,U180
+model,CodeLlama,U185
+model,CodeLlama,U203
+model,CodeLlama,U209
+model,GPT-4o,SN006
+model,GPT-4o,SN011
+model,GPT-4o,SN012
+model,GPT-4o,SN013
+model,GPT-4o,U042
+model,GPT-4o,U046
+model,GPT-4o,U059
+model,GPT-4o,U064
+model,GPT-4o,U067
+model,GPT-4o,U068
+model,GPT-4o,U071
+model,GPT-4o,U073
+model,GPT-4o,U077
+model,GPT-4o,U086
+model,GPT-4o,U091
+model,GPT-4o,U092
+model,GPT-4o,U097
+model,GPT-4o,U105
+model,GPT-4o,U110
+model,GPT-4o,U111
+model,GPT-4o,U116
+model,GPT-4o,U117
+model,GPT-4o,U118
+model,GPT-4o,U119
+model,GPT-4o,U122
+model,GPT-4o,U127
+model,GPT-4o,U131
+model,GPT-4o,U132
+model,GPT-4o,U134
+model,GPT-4o,U172
+model,GPT-4o,U178
+model,GPT-4o,U192
+model,GPT-4o,U193
+model,GPT-4o,U206
+model,GPT-4o,U217
+model,GPT-4o,U222
+model,GPT-4o,U231
+model,GPT-4o,U238
+model,GPT-4o,U239
+model,GPT-4,SN006
+model,GPT-4,U015
+model,GPT-4,U017
+model,GPT-4,U020
+model,GPT-4,U030
+model,GPT-4,U032
+model,GPT-4,U039
+model,GPT-4,U045
+model,GPT-4,U052
+model,GPT-4,U055
+model,GPT-4,U058
+model,GPT-4,U069
+model,GPT-4,U070
+model,GPT-4,U072
+model,GPT-4,U074
+model,GPT-4,U075
+model,GPT-4,U077
+model,GPT-4,U082
+model,GPT-4,U084
+model,GPT-4,U099
+model,GPT-4,U107
+model,GPT-4,U111
+model,GPT-4,U118
+model,GPT-4,U166
+model,GPT-4,U169
+model,GPT-4,U203
+model,GPT-4,U211
+model,GPT-4,U239
+model,DeepSeek-V3,SN001
+model,DeepSeek-V3,SN005
+model,DeepSeek-V3,SN015
+model,DeepSeek-V3,U018
+model,DeepSeek-V3,U082
+model,DeepSeek-V3,U086
+model,DeepSeek-V3,U110
+model,DeepSeek-V3,U119
+model,DeepSeek-V3,U120
+model,DeepSeek-V3,U122
+model,DeepSeek-V3,U131
+model,DeepSeek-V3,U132
+model,DeepSeek-V3,U145
+model,DeepSeek-V3,U147
+model,DeepSeek-V3,U148
+model,DeepSeek-V3,U162
+model,DeepSeek-V3,U165
+model,DeepSeek-V3,U171
+model,DeepSeek-V3,U172
+model,DeepSeek-V3,U175
+model,DeepSeek-V3,U195
+model,DeepSeek-V3,U199
+model,DeepSeek-V3,U208
+model,DeepSeek-V3,U222
+model,DeepSeek-V3,U224
+model,DeepSeek-Coder,SN001
+model,DeepSeek-Coder,SN006
+model,DeepSeek-Coder,U015
+model,DeepSeek-Coder,U017
+model,DeepSeek-Coder,U020
+model,DeepSeek-Coder,U059
+model,DeepSeek-Coder,U066
+model,DeepSeek-Coder,U070
+model,DeepSeek-Coder,U088
+model,DeepSeek-Coder,U107
+model,DeepSeek-Coder,U142
+model,DeepSeek-Coder,U158
+model,DeepSeek-Coder,U160
+model,DeepSeek-Coder,U163
+model,DeepSeek-Coder,U169
+model,DeepSeek-Coder,U176
+model,DeepSeek-Coder,U185
+model,DeepSeek-Coder,U203
+model,DeepSeek-Coder,U209
+model,DeepSeek-Coder,U232
+model,CodeT5,SN004
+model,CodeT5,U006
+model,CodeT5,U008
+model,CodeT5,U024
+model,CodeT5,U043
+model,CodeT5,U051
+model,CodeT5,U088
+model,CodeT5,U093
+model,CodeT5,U098
+model,CodeT5,U104
+model,CodeT5,U106
+model,CodeT5,U108
+model,CodeT5,U109
+model,CodeT5,U158
+model,CodeT5,U163
+model,CodeT5,U181
+model,CodeT5,U182
+model,CodeT5,U190
+model,CodeT5,U225
+model,Llama 3,SN002
+model,Llama 3,SN006
+model,Llama 3,SN007
+model,Llama 3,SN010
+model,Llama 3,SN013
+model,Llama 3,U055
+model,Llama 3,U059
+model,Llama 3,U061
+model,Llama 3,U064
+model,Llama 3,U073
+model,Llama 3,U075
+model,Llama 3,U088
+model,Llama 3,U097
+model,Llama 3,U107
+model,Llama 3,U118
+model,Llama 3,U157
+model,Llama 3,U182
+model,Llama 3,U224
+model,GPT-4o-mini,SN005
+model,GPT-4o-mini,SN006
+model,GPT-4o-mini,SN016
+model,GPT-4o-mini,U115
+model,GPT-4o-mini,U122
+model,GPT-4o-mini,U123
+model,GPT-4o-mini,U124
+model,GPT-4o-mini,U126
+model,GPT-4o-mini,U127
+model,GPT-4o-mini,U133
+model,GPT-4o-mini,U135
+model,GPT-4o-mini,U174
+model,GPT-4o-mini,U176
+model,GPT-4o-mini,U177
+model,GPT-4o-mini,U194
+model,GPT-4o-mini,U199
+model,GPT-4o-mini,U209
+model,Llama 3.1,SN006
+model,Llama 3.1,SN007
+model,Llama 3.1,U046
+model,Llama 3.1,U061
+model,Llama 3.1,U068
+model,Llama 3.1,U071
+model,Llama 3.1,U088
+model,Llama 3.1,U091
+model,Llama 3.1,U094
+model,Llama 3.1,U100
+model,Llama 3.1,U102
+model,Llama 3.1,U142
+model,Llama 3.1,U153
+model,Llama 3.1,U159
+model,Llama 3.1,U177
+model,Llama 3.1,U201
+model,Qwen2.5-Coder,SN017
+model,Qwen2.5-Coder,U065
+model,Qwen2.5-Coder,U071
+model,Qwen2.5-Coder,U136
+model,Qwen2.5-Coder,U142
+model,Qwen2.5-Coder,U153
+model,Qwen2.5-Coder,U160
+model,Qwen2.5-Coder,U163
+model,Qwen2.5-Coder,U169
+model,Qwen2.5-Coder,U172
+model,Qwen2.5-Coder,U173
+model,Qwen2.5-Coder,U176
+model,Qwen2.5-Coder,U196
+model,Qwen2.5-Coder,U197
+model,Qwen2.5-Coder,U232
+model,Qwen2.5-Coder,U233
+model,CodeBERT,U005
+model,CodeBERT,U040
+model,CodeBERT,U051
+model,CodeBERT,U087
+model,CodeBERT,U088
+model,CodeBERT,U089
+model,CodeBERT,U090
+model,CodeBERT,U093
+model,CodeBERT,U104
+model,CodeBERT,U108
+model,CodeBERT,U109
+model,CodeBERT,U140
+model,CodeBERT,U158
+model,CodeBERT,U182
+model,CodeBERT,U188
+model,Llama 3.3,U082
+model,Llama 3.3,U115
+model,Llama 3.3,U123
+model,Llama 3.3,U130
+model,Llama 3.3,U149
+model,Llama 3.3,U156
+model,Llama 3.3,U171
+model,Llama 3.3,U173
+model,Llama 3.3,U178
+model,Llama 3.3,U196
+model,Llama 3.3,U199
+model,Llama 3.3,U204
+model,Llama 3.3,U235
+model,Codex,U009
+model,Codex,U016
+model,Codex,U022
+model,Codex,U027
+model,Codex,U033
+model,Codex,U034
+model,Codex,U047
+model,Codex,U083
+model,Codex,U084
+model,Codex,U099
+model,CodeGen,SN009
+model,CodeGen,U029
+model,CodeGen,U065
+model,CodeGen,U078
+model,CodeGen,U083
+model,CodeGen,U084
+model,CodeGen,U088
+model,CodeGen,U096
+model,CodeGen,U099
+model,GPT-5-mini,U137
+model,GPT-5-mini,U141
+model,GPT-5-mini,U162
+model,GPT-5-mini,U198
+model,GPT-5-mini,U203
+model,GPT-5-mini,U223
+model,GPT-5-mini,U227
+model,GPT-5-mini,U234
+model,GPT-5-mini,U235
+model,Qwen2.5,SN007
+model,Qwen2.5,SN008
+model,Qwen2.5,U142
+model,Qwen2.5,U153
+model,Qwen2.5,U173
+model,Qwen2.5,U197
+model,Qwen2.5,U201
+model,Qwen2.5,U202
+model,Qwen2.5,U236
+model,StarCoder,SN009
+model,StarCoder,SN017
+model,StarCoder,U016
+model,StarCoder,U043
+model,StarCoder,U047
+model,StarCoder,U065
+model,StarCoder,U088
+model,StarCoder,U104
+model,StarCoder,U158
+model,Codestral,SN005
+model,Codestral,SN017
+model,Codestral,U026
+model,Codestral,U068
+model,Codestral,U107
+model,Codestral,U197
+model,Codestral,U204
+model,Codestral,U212
+model,GraphCodeBERT,U051
+model,GraphCodeBERT,U081
+model,GraphCodeBERT,U087
+model,GraphCodeBERT,U088
+model,GraphCodeBERT,U093
+model,GraphCodeBERT,U108
+model,GraphCodeBERT,U109
+model,GraphCodeBERT,U182
+model,Qwen3-Coder,U137
+model,Qwen3-Coder,U175
+model,Qwen3-Coder,U198
+model,Qwen3-Coder,U200
+model,Qwen3-Coder,U214
+model,Qwen3-Coder,U223
+model,Qwen3-Coder,U224
+model,Qwen3-Coder,U231
+model,StarCoder2,SN006
+model,StarCoder2,U049
+model,StarCoder2,U054
+model,StarCoder2,U065
+model,StarCoder2,U088
+model,StarCoder2,U107
+model,StarCoder2,U157
+model,StarCoder2,U180
+model,Qwen3,SN008
+model,Qwen3,U132
+model,Qwen3,U192
+model,Qwen3,U196
+model,Qwen3,U201
+model,Qwen3,U204
+model,Qwen3,U222
+model,UniXcoder,U051
+model,UniXcoder,U087
+model,UniXcoder,U088
+model,UniXcoder,U093
+model,UniXcoder,U108
+model,UniXcoder,U109
+model,UniXcoder,U188
+model,CodeGPT,U035
+model,CodeGPT,U051
+model,CodeGPT,U078
+model,CodeGPT,U088
+model,CodeGPT,U096
+model,CodeGPT,U109
+model,DeepSeek-R1,U118
+model,DeepSeek-R1,U127
+model,DeepSeek-R1,U128
+model,DeepSeek-R1,U147
+model,DeepSeek-R1,U148
+model,DeepSeek-R1,U239
+model,DeepSeek-R1-Distill,U136
+model,DeepSeek-R1-Distill,U142
+model,DeepSeek-R1-Distill,U159
+model,DeepSeek-R1-Distill,U178
+model,DeepSeek-R1-Distill,U191
+model,DeepSeek-R1-Distill,U232
+model,Mistral,U026
+model,Mistral,U061
+model,Mistral,U075
+model,Mistral,U166
+model,Mistral,U211
+model,Mistral,U224
+model,o4-mini,U129
+model,o4-mini,U147
+model,o4-mini,U148
+model,o4-mini,U194
+model,o4-mini,U208
+model,o4-mini,U216
+model,BART,U002
+model,BART,U011
+model,BART,U013
+model,BART,U125
+model,BART,U190
+model,Claude 3.5 Sonnet,SN002
+model,Claude 3.5 Sonnet,U123
+model,Claude 3.5 Sonnet,U192
+model,Claude 3.5 Sonnet,U203
+model,Claude 3.5 Sonnet,U239
+model,Claude 3.7 Sonnet,U082
+model,Claude 3.7 Sonnet,U117
+model,Claude 3.7 Sonnet,U134
+model,Claude 3.7 Sonnet,U179
+model,Claude 3.7 Sonnet,U208
+model,CodeGemma,U043
+model,CodeGemma,U078
+model,CodeGemma,U088
+model,CodeGemma,U180
+model,CodeGemma,U203
+model,CodeQwen1.5,SN006
+model,CodeQwen1.5,U049
+model,CodeQwen1.5,U054
+model,CodeQwen1.5,U157
+model,CodeQwen1.5,U203
+model,DeepSeek-V3.2,U145
+model,DeepSeek-V3.2,U154
+model,DeepSeek-V3.2,U155
+model,DeepSeek-V3.2,U204
+model,DeepSeek-V3.2,U223
+model,GPT-4.1,SN005
+model,GPT-4.1,U147
+model,GPT-4.1,U148
+model,GPT-4.1,U155
+model,GPT-4.1,U171
+model,Gemini 2.5 Pro,U082
+model,Gemini 2.5 Pro,U147
+model,Gemini 2.5 Pro,U148
+model,Gemini 2.5 Pro,U208
+model,Gemini 2.5 Pro,U238
+model,InCoder,SN009
+model,InCoder,U043
+model,InCoder,U083
+model,InCoder,U088
+model,InCoder,U099
+model,Mistral Large,U052
+model,Mistral Large,U092
+model,Mistral Large,U115
+model,Mistral Large,U117
+model,Mistral Large,U217
+model,CodeGen2,SN009
+model,CodeGen2,U045
+model,CodeGen2,U065
+model,CodeGen2,U088
+model,CodeT5+,SN009
+model,CodeT5+,U029
+model,CodeT5+,U080
+model,CodeT5+,U088
+model,DeepSeek-V3.1,U124
+model,DeepSeek-V3.1,U129
+model,DeepSeek-V3.1,U133
+model,DeepSeek-V3.1,U200
+model,GPT-4.1-mini,U135
+model,GPT-4.1-mini,U191
+model,GPT-4.1-mini,U216
+model,GPT-4.1-mini,U235
+model,Mixtral,U046
+model,Mixtral,U075
+model,Mixtral,U166
+model,Mixtral,U211
+model,Claude Haiku 4.5,U204
+model,Claude Haiku 4.5,U221
+model,Claude Haiku 4.5,U235
+model,CodeParrot,U078
+model,CodeParrot,U096
+model,CodeParrot,U140
+model,DeepSeek-Coder-V2,SN002
+model,DeepSeek-Coder-V2,SN016
+model,DeepSeek-Coder-V2,U068
+model,DeepSeek-V2.5,SN001
+model,DeepSeek-V2.5,U025
+model,DeepSeek-V2.5,U210
+model,DeepSeek-V4-Flash,U212
+model,DeepSeek-V4-Flash,U219
+model,DeepSeek-V4-Flash,U235
+model,GPT-5,U137
+model,GPT-5,U234
+model,GPT-5,U238
+model,GPT-5.4-mini,U200
+model,GPT-5.4-mini,U212
+model,GPT-5.4-mini,U213
+model,GPT-OSS,U145
+model,GPT-OSS,U204
+model,GPT-OSS,U231
+model,Gemini 1.5 Pro,U074
+model,Gemini 1.5 Pro,U075
+model,Gemini 1.5 Pro,U177
+model,Gemini 2.5 Flash,U147
+model,Gemini 2.5 Flash,U148
+model,Gemini 2.5 Flash,U215
+model,InstructGPT,U041
+model,InstructGPT,U074
+model,InstructGPT,U084
+model,Llama 2,SN010
+model,Llama 2,U022
+model,Llama 2,U097
+model,Not reported,SN014
+model,Not reported,U050
+model,Not reported,U207
+model,PLBART,U013
+model,PLBART,U029
+model,PLBART,U088
+model,Phi-1,U078
+model,Phi-1,U088
+model,Phi-1,U096
+model,Qwen3.5,U200
+model,Qwen3.5,U229
+model,Qwen3.5,U233
+model,SantaCoder,SN009
+model,SantaCoder,U063
+model,SantaCoder,U088
+model,T5,U028
+model,T5,U095
+model,T5,U182
+model,Claude 3 Haiku,U075
+model,Claude 3 Haiku,U107
+model,Claude 3 Sonnet,U075
+model,Claude 3 Sonnet,U107
+model,Claude 3.5 Haiku,U115
+model,Claude 3.5 Haiku,U124
+model,Claude Opus 4.5,U230
+model,Claude Opus 4.5,U234
+model,Claude Sonnet 4,U147
+model,Claude Sonnet 4,U148
+model,Claude Sonnet 4.5,U204
+model,Claude Sonnet 4.5,U238
+model,Claude Sonnet 4.6,U149
+model,Claude Sonnet 4.6,U230
+model,Copilot (backend unspecified),U067
+model,Copilot (backend unspecified),U101
+model,Gemma 2,U068
+model,Gemma 2,U091
+model,Gemma 3,U160
+model,Gemma 3,U198
+model,Grok 3,U147
+model,Grok 3,U148
+model,Grok 4,U147
+model,Grok 4,U148
+model,Magicoder,U026
+model,Magicoder,U185
+model,Phi-4-mini,U160
+model,Phi-4-mini,U173
+model,PolyCoder,U078
+model,PolyCoder,U096
+model,Qwen2,U088
+model,Qwen2,U094
+model,Qwen3-Coder-Plus,U147
+model,Qwen3-Coder-Plus,U148
+model,Qwen3-Plus,U147
+model,Qwen3-Plus,U148
+model,o1,U179
+model,o1,U203
+model,o3,U208
+model,o3,U216
+model,ALBERT,U182
+model,BERT,U182
+model,BLOOM,U043
+model,CAT-LM,U004
+model,ChatGPT (backend unspecified),U035
+model,ChatGPT Code Interpreter (backend unconfirmed),U007
+model,Claude Fable 5,U230
+model,Claude Opus 4.6,U230
+model,Claude Opus 4.7,U220
+model,Claude Opus 4.8,U230
+model,CodeGeeX2,SN009
+model,CodeGeeX4,U086
+model,CodeGen2.5,U084
+model,CodeShell,U088
+model,DeciCoder,U088
+model,DeepSeek-V4-Pro,U204
+model,Devstral,U149
+model,DiffuCoder,U205
+model,DistilBERT,U182
+model,Dream,U205
+model,GLM-4,U189
+model,GLM-4.6,U223
+model,GLM-5,U204
+model,GLM-5.2,U219
+model,GPT-4.1-nano,U191
+model,GPT-4.5,U208
+model,GPT-5.1,U227
+model,GPT-5.1-Codex,U238
+model,GPT-5.2,U204
+model,GPT-5.4,U226
+model,Gemini (version unspecified),U043
+model,Gemini 1.0 Pro,SN006
+model,Gemini 1.5,U052
+model,Gemini 2.0 Flash,U203
+model,Gemini 3 Flash,U213
+model,Gemini 3 Pro,U203
+model,Gemini 3.1 Flash-Lite,U221
+model,Gemini 3.1 Pro,U220
+model,Gemma 1,SN006
+model,Gemma 3n,U224
+model,Granite,U055
+model,Kimi-K2.5,U204
+model,Llama (version unspecified),U077
+model,MiniMax-M2.7,U204
+model,Mistral (22B unspecified),U159
+model,Mistral Large 3,U213
+model,Phi-2,U088
+model,Phi-3,U061
+model,Phi-4,U173
+model,Phi-4-reasoning,U173
+model,Qwen-Plus,U119
+model,Qwen3-Coder-Flash,U133
+model,Qwen3-Coder-Next,U204
+model,Qwen3.6,U219
+model,RoBERTa,U182
+model,Seed-Coder,U160
+model,SeedCode (API version unspecified),U146
+model,StarChat,U072
+model,StarEncoder,U087
+model,TinyLlama,U061
+model,Unnamed proprietary LLM,U044
+model,WizardCoder,SN009
+model,Yi-Coder,U204
+model,o1-mini,U154
+model,o3-mini,U194
+strategy,Zero-shot,SN006
+strategy,Zero-shot,U007
+strategy,Zero-shot,U009
+strategy,Zero-shot,U010
+strategy,Zero-shot,U012
+strategy,Zero-shot,U014
+strategy,Zero-shot,U015
+strategy,Zero-shot,U016
+strategy,Zero-shot,U018
+strategy,Zero-shot,U019
+strategy,Zero-shot,U022
+strategy,Zero-shot,U023
+strategy,Zero-shot,U025
+strategy,Zero-shot,U026
+strategy,Zero-shot,U027
+strategy,Zero-shot,U030
+strategy,Zero-shot,U032
+strategy,Zero-shot,U033
+strategy,Zero-shot,U034
+strategy,Zero-shot,U035
+strategy,Zero-shot,U038
+strategy,Zero-shot,U041
+strategy,Zero-shot,U042
+strategy,Zero-shot,U043
+strategy,Zero-shot,U044
+strategy,Zero-shot,U045
+strategy,Zero-shot,U046
+strategy,Zero-shot,U047
+strategy,Zero-shot,U048
+strategy,Zero-shot,U049
+strategy,Zero-shot,U052
+strategy,Zero-shot,U053
+strategy,Zero-shot,U054
+strategy,Zero-shot,U055
+strategy,Zero-shot,U056
+strategy,Zero-shot,U057
+strategy,Zero-shot,U058
+strategy,Zero-shot,U062
+strategy,Zero-shot,U063
+strategy,Zero-shot,U066
+strategy,Zero-shot,U067
+strategy,Zero-shot,U068
+strategy,Zero-shot,U069
+strategy,Zero-shot,U070
+strategy,Zero-shot,U071
+strategy,Zero-shot,U072
+strategy,Zero-shot,U075
+strategy,Zero-shot,U077
+strategy,Zero-shot,U079
+strategy,Zero-shot,U082
+strategy,Zero-shot,U083
+strategy,Zero-shot,U084
+strategy,Zero-shot,U086
+strategy,Zero-shot,U088
+strategy,Zero-shot,U090
+strategy,Zero-shot,U091
+strategy,Zero-shot,U092
+strategy,Zero-shot,U093
+strategy,Zero-shot,U094
+strategy,Zero-shot,U097
+strategy,Zero-shot,U098
+strategy,Zero-shot,U099
+strategy,Zero-shot,U102
+strategy,Zero-shot,U103
+strategy,Zero-shot,U107
+strategy,Zero-shot,U111
+strategy,Zero-shot,U115
+strategy,Zero-shot,U116
+strategy,Zero-shot,U117
+strategy,Zero-shot,U118
+strategy,Zero-shot,U119
+strategy,Zero-shot,U120
+strategy,Zero-shot,U127
+strategy,Zero-shot,U129
+strategy,Zero-shot,U135
+strategy,Zero-shot,U137
+strategy,Zero-shot,U147
+strategy,Zero-shot,U148
+strategy,Zero-shot,U149
+strategy,Zero-shot,U153
+strategy,Zero-shot,U156
+strategy,Zero-shot,U159
+strategy,Zero-shot,U160
+strategy,Zero-shot,U162
+strategy,Zero-shot,U165
+strategy,Zero-shot,U166
+strategy,Zero-shot,U171
+strategy,Zero-shot,U173
+strategy,Zero-shot,U174
+strategy,Zero-shot,U176
+strategy,Zero-shot,U177
+strategy,Zero-shot,U178
+strategy,Zero-shot,U182
+strategy,Zero-shot,U185
+strategy,Zero-shot,U188
+strategy,Zero-shot,U191
+strategy,Zero-shot,U192
+strategy,Zero-shot,U193
+strategy,Zero-shot,U194
+strategy,Zero-shot,U195
+strategy,Zero-shot,U196
+strategy,Zero-shot,U197
+strategy,Zero-shot,U199
+strategy,Zero-shot,U201
+strategy,Zero-shot,U202
+strategy,Zero-shot,U203
+strategy,Zero-shot,U204
+strategy,Zero-shot,U205
+strategy,Zero-shot,U206
+strategy,Zero-shot,U208
+strategy,Zero-shot,U209
+strategy,Zero-shot,U210
+strategy,Zero-shot,U211
+strategy,Zero-shot,U212
+strategy,Zero-shot,U219
+strategy,Zero-shot,U220
+strategy,Zero-shot,U221
+strategy,Zero-shot,U224
+strategy,Zero-shot,U231
+strategy,Zero-shot,U235
+strategy,Zero-shot,U238
+strategy,Zero-shot,U239
+strategy,Few-shot,SN001
+strategy,Few-shot,U015
+strategy,Few-shot,U018
+strategy,Few-shot,U020
+strategy,Few-shot,U022
+strategy,Few-shot,U025
+strategy,Few-shot,U026
+strategy,Few-shot,U027
+strategy,Few-shot,U030
+strategy,Few-shot,U033
+strategy,Few-shot,U034
+strategy,Few-shot,U036
+strategy,Few-shot,U039
+strategy,Few-shot,U055
+strategy,Few-shot,U059
+strategy,Few-shot,U061
+strategy,Few-shot,U062
+strategy,Few-shot,U064
+strategy,Few-shot,U070
+strategy,Few-shot,U071
+strategy,Few-shot,U072
+strategy,Few-shot,U073
+strategy,Few-shot,U074
+strategy,Few-shot,U082
+strategy,Few-shot,U083
+strategy,Few-shot,U100
+strategy,Few-shot,U105
+strategy,Few-shot,U110
+strategy,Few-shot,U111
+strategy,Few-shot,U118
+strategy,Few-shot,U120
+strategy,Few-shot,U122
+strategy,Few-shot,U126
+strategy,Few-shot,U129
+strategy,Few-shot,U131
+strategy,Few-shot,U145
+strategy,Few-shot,U163
+strategy,Few-shot,U166
+strategy,Few-shot,U167
+strategy,Few-shot,U169
+strategy,Few-shot,U172
+strategy,Few-shot,U175
+strategy,Few-shot,U177
+strategy,Few-shot,U188
+strategy,Few-shot,U189
+strategy,Few-shot,U193
+strategy,Few-shot,U196
+strategy,Few-shot,U211
+strategy,Few-shot,U212
+strategy,Few-shot,U214
+strategy,Few-shot,U216
+strategy,Few-shot,U227
+strategy,Few-shot,U229
+strategy,Few-shot,U232
+strategy,Few-shot,U233
+strategy,CoT,SN006
+strategy,CoT,SN015
+strategy,CoT,SN016
+strategy,CoT,U015
+strategy,CoT,U017
+strategy,CoT,U019
+strategy,CoT,U025
+strategy,CoT,U030
+strategy,CoT,U036
+strategy,CoT,U045
+strategy,CoT,U057
+strategy,CoT,U059
+strategy,CoT,U064
+strategy,CoT,U069
+strategy,CoT,U071
+strategy,CoT,U072
+strategy,CoT,U074
+strategy,CoT,U075
+strategy,CoT,U086
+strategy,CoT,U119
+strategy,CoT,U120
+strategy,CoT,U122
+strategy,CoT,U127
+strategy,CoT,U128
+strategy,CoT,U129
+strategy,CoT,U130
+strategy,CoT,U132
+strategy,CoT,U136
+strategy,CoT,U141
+strategy,CoT,U142
+strategy,CoT,U145
+strategy,CoT,U148
+strategy,CoT,U158
+strategy,CoT,U159
+strategy,CoT,U165
+strategy,CoT,U166
+strategy,CoT,U167
+strategy,CoT,U171
+strategy,CoT,U175
+strategy,CoT,U176
+strategy,CoT,U179
+strategy,CoT,U191
+strategy,CoT,U196
+strategy,CoT,U198
+strategy,CoT,U201
+strategy,CoT,U202
+strategy,CoT,U208
+strategy,CoT,U211
+strategy,CoT,U217
+strategy,CoT,U222
+strategy,CoT,U223
+strategy,CoT,U232
+strategy,CoT,U234
+strategy,CoT,U235
+strategy,Other prompting,SN001
+strategy,Other prompting,SN002
+strategy,Other prompting,SN003
+strategy,Other prompting,SN005
+strategy,Other prompting,SN009
+strategy,Other prompting,SN010
+strategy,Other prompting,SN011
+strategy,Other prompting,SN012
+strategy,Other prompting,SN013
+strategy,Other prompting,SN014
+strategy,Other prompting,SN015
+strategy,Other prompting,SN016
+strategy,Other prompting,SN017
+strategy,Other prompting,U004
+strategy,Other prompting,U050
+strategy,Other prompting,U060
+strategy,Other prompting,U101
+strategy,Other prompting,U123
+strategy,Other prompting,U124
+strategy,Other prompting,U133
+strategy,Other prompting,U134
+strategy,Other prompting,U146
+strategy,Other prompting,U154
+strategy,Other prompting,U155
+strategy,Other prompting,U157
+strategy,Other prompting,U200
+strategy,Other prompting,U213
+strategy,Other prompting,U215
+strategy,Other prompting,U226
+strategy,Other prompting,U230
+strategy,Other prompting,U236
+strategy,Full FT,SN004
+strategy,Full FT,U002
+strategy,Full FT,U005
+strategy,Full FT,U006
+strategy,Full FT,U008
+strategy,Full FT,U009
+strategy,Full FT,U011
+strategy,Full FT,U013
+strategy,Full FT,U024
+strategy,Full FT,U028
+strategy,Full FT,U029
+strategy,Full FT,U035
+strategy,Full FT,U061
+strategy,Full FT,U065
+strategy,Full FT,U078
+strategy,Full FT,U088
+strategy,Full FT,U108
+strategy,Full FT,U109
+strategy,Full FT,U125
+strategy,Full FT,U180
+strategy,Full FT,U181
+strategy,Full FT,U188
+strategy,Full FT,U190
+strategy,Full FT,U197
+strategy,Fine-tuning (type unspecified),SN007
+strategy,Fine-tuning (type unspecified),U043
+strategy,Fine-tuning (type unspecified),U051
+strategy,Fine-tuning (type unspecified),U070
+strategy,Fine-tuning (type unspecified),U081
+strategy,Fine-tuning (type unspecified),U090
+strategy,Fine-tuning (type unspecified),U091
+strategy,Fine-tuning (type unspecified),U093
+strategy,Fine-tuning (type unspecified),U095
+strategy,Fine-tuning (type unspecified),U096
+strategy,Fine-tuning (type unspecified),U098
+strategy,Fine-tuning (type unspecified),U104
+strategy,Fine-tuning (type unspecified),U106
+strategy,Fine-tuning (type unspecified),U109
+strategy,Fine-tuning (type unspecified),U118
+strategy,Fine-tuning (type unspecified),U136
+strategy,Fine-tuning (type unspecified),U153
+strategy,Fine-tuning (type unspecified),U163
+strategy,Fine-tuning (type unspecified),U182
+strategy,Fine-tuning (type unspecified),U201
+strategy,PEFT,U053
+strategy,PEFT,U054
+strategy,PEFT,U061
+strategy,PEFT,U065
+strategy,PEFT,U070
+strategy,PEFT,U078
+strategy,PEFT,U080
+strategy,PEFT,U100
+strategy,PEFT,U104
+strategy,PEFT,U105
+strategy,PEFT,U108
+strategy,PEFT,U158
+strategy,PEFT,U163
+strategy,PEFT,U197
+strategy,PEFT,U225
+strategy,PEFT,U229
+strategy,PEFT,U233
+strategy,RL,SN008
+strategy,RL,U009
+strategy,RL,U098
+strategy,RL,U153
+strategy,RL,U158
+strategy,RL,U201
+strategy,RL,U202
+strategy,RL,U229
+strategy,Pre-training,U002
+strategy,Pre-training,U004
+strategy,Pre-training,U011
+strategy,Pre-training,U013
+strategy,Pre-training,U028
+strategy,Pre-training,U063
+strategy,Existing-model reuse (no new training or prompting experiment),U040
+strategy,Existing-model reuse (no new training or prompting experiment),U087
+strategy,Existing-model reuse (no new training or prompting experiment),U089
+strategy,Existing-model reuse (no new training or prompting experiment),U140
+strategy,GToT,U166
+strategy,GToT,U211
+strategy,Not reported,U207
+strategy,Not reported,U237
+strategy,ToT,U166
+strategy,ToT,U211
+strategy_parent,Prompting Engineering,SN001
+strategy_parent,Prompting Engineering,SN002
+strategy_parent,Prompting Engineering,SN003
+strategy_parent,Prompting Engineering,SN005
+strategy_parent,Prompting Engineering,SN006
+strategy_parent,Prompting Engineering,SN009
+strategy_parent,Prompting Engineering,SN010
+strategy_parent,Prompting Engineering,SN011
+strategy_parent,Prompting Engineering,SN012
+strategy_parent,Prompting Engineering,SN013
+strategy_parent,Prompting Engineering,SN014
+strategy_parent,Prompting Engineering,SN015
+strategy_parent,Prompting Engineering,SN016
+strategy_parent,Prompting Engineering,SN017
+strategy_parent,Prompting Engineering,U004
+strategy_parent,Prompting Engineering,U007
+strategy_parent,Prompting Engineering,U009
+strategy_parent,Prompting Engineering,U010
+strategy_parent,Prompting Engineering,U012
+strategy_parent,Prompting Engineering,U014
+strategy_parent,Prompting Engineering,U015
+strategy_parent,Prompting Engineering,U016
+strategy_parent,Prompting Engineering,U017
+strategy_parent,Prompting Engineering,U018
+strategy_parent,Prompting Engineering,U019
+strategy_parent,Prompting Engineering,U020
+strategy_parent,Prompting Engineering,U022
+strategy_parent,Prompting Engineering,U023
+strategy_parent,Prompting Engineering,U025
+strategy_parent,Prompting Engineering,U026
+strategy_parent,Prompting Engineering,U027
+strategy_parent,Prompting Engineering,U030
+strategy_parent,Prompting Engineering,U032
+strategy_parent,Prompting Engineering,U033
+strategy_parent,Prompting Engineering,U034
+strategy_parent,Prompting Engineering,U035
+strategy_parent,Prompting Engineering,U036
+strategy_parent,Prompting Engineering,U038
+strategy_parent,Prompting Engineering,U039
+strategy_parent,Prompting Engineering,U041
+strategy_parent,Prompting Engineering,U042
+strategy_parent,Prompting Engineering,U043
+strategy_parent,Prompting Engineering,U044
+strategy_parent,Prompting Engineering,U045
+strategy_parent,Prompting Engineering,U046
+strategy_parent,Prompting Engineering,U047
+strategy_parent,Prompting Engineering,U048
+strategy_parent,Prompting Engineering,U049
+strategy_parent,Prompting Engineering,U050
+strategy_parent,Prompting Engineering,U052
+strategy_parent,Prompting Engineering,U053
+strategy_parent,Prompting Engineering,U054
+strategy_parent,Prompting Engineering,U055
+strategy_parent,Prompting Engineering,U056
+strategy_parent,Prompting Engineering,U057
+strategy_parent,Prompting Engineering,U058
+strategy_parent,Prompting Engineering,U059
+strategy_parent,Prompting Engineering,U060
+strategy_parent,Prompting Engineering,U061
+strategy_parent,Prompting Engineering,U062
+strategy_parent,Prompting Engineering,U063
+strategy_parent,Prompting Engineering,U064
+strategy_parent,Prompting Engineering,U066
+strategy_parent,Prompting Engineering,U067
+strategy_parent,Prompting Engineering,U068
+strategy_parent,Prompting Engineering,U069
+strategy_parent,Prompting Engineering,U070
+strategy_parent,Prompting Engineering,U071
+strategy_parent,Prompting Engineering,U072
+strategy_parent,Prompting Engineering,U073
+strategy_parent,Prompting Engineering,U074
+strategy_parent,Prompting Engineering,U075
+strategy_parent,Prompting Engineering,U077
+strategy_parent,Prompting Engineering,U079
+strategy_parent,Prompting Engineering,U082
+strategy_parent,Prompting Engineering,U083
+strategy_parent,Prompting Engineering,U084
+strategy_parent,Prompting Engineering,U086
+strategy_parent,Prompting Engineering,U088
+strategy_parent,Prompting Engineering,U090
+strategy_parent,Prompting Engineering,U091
+strategy_parent,Prompting Engineering,U092
+strategy_parent,Prompting Engineering,U093
+strategy_parent,Prompting Engineering,U094
+strategy_parent,Prompting Engineering,U097
+strategy_parent,Prompting Engineering,U098
+strategy_parent,Prompting Engineering,U099
+strategy_parent,Prompting Engineering,U100
+strategy_parent,Prompting Engineering,U101
+strategy_parent,Prompting Engineering,U102
+strategy_parent,Prompting Engineering,U103
+strategy_parent,Prompting Engineering,U105
+strategy_parent,Prompting Engineering,U107
+strategy_parent,Prompting Engineering,U110
+strategy_parent,Prompting Engineering,U111
+strategy_parent,Prompting Engineering,U115
+strategy_parent,Prompting Engineering,U116
+strategy_parent,Prompting Engineering,U117
+strategy_parent,Prompting Engineering,U118
+strategy_parent,Prompting Engineering,U119
+strategy_parent,Prompting Engineering,U120
+strategy_parent,Prompting Engineering,U122
+strategy_parent,Prompting Engineering,U123
+strategy_parent,Prompting Engineering,U124
+strategy_parent,Prompting Engineering,U126
+strategy_parent,Prompting Engineering,U127
+strategy_parent,Prompting Engineering,U128
+strategy_parent,Prompting Engineering,U129
+strategy_parent,Prompting Engineering,U130
+strategy_parent,Prompting Engineering,U131
+strategy_parent,Prompting Engineering,U132
+strategy_parent,Prompting Engineering,U133
+strategy_parent,Prompting Engineering,U134
+strategy_parent,Prompting Engineering,U135
+strategy_parent,Prompting Engineering,U136
+strategy_parent,Prompting Engineering,U137
+strategy_parent,Prompting Engineering,U141
+strategy_parent,Prompting Engineering,U142
+strategy_parent,Prompting Engineering,U145
+strategy_parent,Prompting Engineering,U146
+strategy_parent,Prompting Engineering,U147
+strategy_parent,Prompting Engineering,U148
+strategy_parent,Prompting Engineering,U149
+strategy_parent,Prompting Engineering,U153
+strategy_parent,Prompting Engineering,U154
+strategy_parent,Prompting Engineering,U155
+strategy_parent,Prompting Engineering,U156
+strategy_parent,Prompting Engineering,U157
+strategy_parent,Prompting Engineering,U158
+strategy_parent,Prompting Engineering,U159
+strategy_parent,Prompting Engineering,U160
+strategy_parent,Prompting Engineering,U162
+strategy_parent,Prompting Engineering,U163
+strategy_parent,Prompting Engineering,U165
+strategy_parent,Prompting Engineering,U166
+strategy_parent,Prompting Engineering,U167
+strategy_parent,Prompting Engineering,U169
+strategy_parent,Prompting Engineering,U171
+strategy_parent,Prompting Engineering,U172
+strategy_parent,Prompting Engineering,U173
+strategy_parent,Prompting Engineering,U174
+strategy_parent,Prompting Engineering,U175
+strategy_parent,Prompting Engineering,U176
+strategy_parent,Prompting Engineering,U177
+strategy_parent,Prompting Engineering,U178
+strategy_parent,Prompting Engineering,U179
+strategy_parent,Prompting Engineering,U182
+strategy_parent,Prompting Engineering,U185
+strategy_parent,Prompting Engineering,U188
+strategy_parent,Prompting Engineering,U189
+strategy_parent,Prompting Engineering,U191
+strategy_parent,Prompting Engineering,U192
+strategy_parent,Prompting Engineering,U193
+strategy_parent,Prompting Engineering,U194
+strategy_parent,Prompting Engineering,U195
+strategy_parent,Prompting Engineering,U196
+strategy_parent,Prompting Engineering,U197
+strategy_parent,Prompting Engineering,U198
+strategy_parent,Prompting Engineering,U199
+strategy_parent,Prompting Engineering,U200
+strategy_parent,Prompting Engineering,U201
+strategy_parent,Prompting Engineering,U202
+strategy_parent,Prompting Engineering,U203
+strategy_parent,Prompting Engineering,U204
+strategy_parent,Prompting Engineering,U205
+strategy_parent,Prompting Engineering,U206
+strategy_parent,Prompting Engineering,U208
+strategy_parent,Prompting Engineering,U209
+strategy_parent,Prompting Engineering,U210
+strategy_parent,Prompting Engineering,U211
+strategy_parent,Prompting Engineering,U212
+strategy_parent,Prompting Engineering,U213
+strategy_parent,Prompting Engineering,U214
+strategy_parent,Prompting Engineering,U215
+strategy_parent,Prompting Engineering,U216
+strategy_parent,Prompting Engineering,U217
+strategy_parent,Prompting Engineering,U219
+strategy_parent,Prompting Engineering,U220
+strategy_parent,Prompting Engineering,U221
+strategy_parent,Prompting Engineering,U222
+strategy_parent,Prompting Engineering,U223
+strategy_parent,Prompting Engineering,U224
+strategy_parent,Prompting Engineering,U226
+strategy_parent,Prompting Engineering,U227
+strategy_parent,Prompting Engineering,U229
+strategy_parent,Prompting Engineering,U230
+strategy_parent,Prompting Engineering,U231
+strategy_parent,Prompting Engineering,U232
+strategy_parent,Prompting Engineering,U233
+strategy_parent,Prompting Engineering,U234
+strategy_parent,Prompting Engineering,U235
+strategy_parent,Prompting Engineering,U236
+strategy_parent,Prompting Engineering,U238
+strategy_parent,Prompting Engineering,U239
+strategy_parent,Model Training,SN004
+strategy_parent,Model Training,SN007
+strategy_parent,Model Training,SN008
+strategy_parent,Model Training,U002
+strategy_parent,Model Training,U004
+strategy_parent,Model Training,U005
+strategy_parent,Model Training,U006
+strategy_parent,Model Training,U008
+strategy_parent,Model Training,U009
+strategy_parent,Model Training,U011
+strategy_parent,Model Training,U013
+strategy_parent,Model Training,U024
+strategy_parent,Model Training,U028
+strategy_parent,Model Training,U029
+strategy_parent,Model Training,U035
+strategy_parent,Model Training,U043
+strategy_parent,Model Training,U051
+strategy_parent,Model Training,U053
+strategy_parent,Model Training,U054
+strategy_parent,Model Training,U061
+strategy_parent,Model Training,U063
+strategy_parent,Model Training,U065
+strategy_parent,Model Training,U070
+strategy_parent,Model Training,U078
+strategy_parent,Model Training,U080
+strategy_parent,Model Training,U081
+strategy_parent,Model Training,U088
+strategy_parent,Model Training,U090
+strategy_parent,Model Training,U091
+strategy_parent,Model Training,U093
+strategy_parent,Model Training,U095
+strategy_parent,Model Training,U096
+strategy_parent,Model Training,U098
+strategy_parent,Model Training,U100
+strategy_parent,Model Training,U104
+strategy_parent,Model Training,U105
+strategy_parent,Model Training,U106
+strategy_parent,Model Training,U108
+strategy_parent,Model Training,U109
+strategy_parent,Model Training,U118
+strategy_parent,Model Training,U125
+strategy_parent,Model Training,U136
+strategy_parent,Model Training,U153
+strategy_parent,Model Training,U158
+strategy_parent,Model Training,U163
+strategy_parent,Model Training,U180
+strategy_parent,Model Training,U181
+strategy_parent,Model Training,U182
+strategy_parent,Model Training,U188
+strategy_parent,Model Training,U190
+strategy_parent,Model Training,U197
+strategy_parent,Model Training,U201
+strategy_parent,Model Training,U202
+strategy_parent,Model Training,U225
+strategy_parent,Model Training,U229
+strategy_parent,Model Training,U233
+strategy_parent,Existing-model reuse (no new training or prompting experiment),U040
+strategy_parent,Existing-model reuse (no new training or prompting experiment),U087
+strategy_parent,Existing-model reuse (no new training or prompting experiment),U089
+strategy_parent,Existing-model reuse (no new training or prompting experiment),U140
+strategy_parent,Not reported,U207
+strategy_parent,Not reported,U237
+integrated_technique,Program Analysis,SN001
+integrated_technique,Program Analysis,SN002
+integrated_technique,Program Analysis,SN006
+integrated_technique,Program Analysis,SN014
+integrated_technique,Program Analysis,SN015
+integrated_technique,Program Analysis,SN016
+integrated_technique,Program Analysis,U002
+integrated_technique,Program Analysis,U004
+integrated_technique,Program Analysis,U005
+integrated_technique,Program Analysis,U006
+integrated_technique,Program Analysis,U008
+integrated_technique,Program Analysis,U009
+integrated_technique,Program Analysis,U014
+integrated_technique,Program Analysis,U015
+integrated_technique,Program Analysis,U016
+integrated_technique,Program Analysis,U017
+integrated_technique,Program Analysis,U019
+integrated_technique,Program Analysis,U020
+integrated_technique,Program Analysis,U024
+integrated_technique,Program Analysis,U025
+integrated_technique,Program Analysis,U026
+integrated_technique,Program Analysis,U028
+integrated_technique,Program Analysis,U029
+integrated_technique,Program Analysis,U030
+integrated_technique,Program Analysis,U032
+integrated_technique,Program Analysis,U033
+integrated_technique,Program Analysis,U034
+integrated_technique,Program Analysis,U036
+integrated_technique,Program Analysis,U038
+integrated_technique,Program Analysis,U039
+integrated_technique,Program Analysis,U040
+integrated_technique,Program Analysis,U041
+integrated_technique,Program Analysis,U042
+integrated_technique,Program Analysis,U043
+integrated_technique,Program Analysis,U045
+integrated_technique,Program Analysis,U047
+integrated_technique,Program Analysis,U049
+integrated_technique,Program Analysis,U050
+integrated_technique,Program Analysis,U053
+integrated_technique,Program Analysis,U054
+integrated_technique,Program Analysis,U055
+integrated_technique,Program Analysis,U058
+integrated_technique,Program Analysis,U059
+integrated_technique,Program Analysis,U061
+integrated_technique,Program Analysis,U062
+integrated_technique,Program Analysis,U063
+integrated_technique,Program Analysis,U064
+integrated_technique,Program Analysis,U066
+integrated_technique,Program Analysis,U071
+integrated_technique,Program Analysis,U074
+integrated_technique,Program Analysis,U075
+integrated_technique,Program Analysis,U077
+integrated_technique,Program Analysis,U079
+integrated_technique,Program Analysis,U080
+integrated_technique,Program Analysis,U081
+integrated_technique,Program Analysis,U086
+integrated_technique,Program Analysis,U089
+integrated_technique,Program Analysis,U092
+integrated_technique,Program Analysis,U093
+integrated_technique,Program Analysis,U094
+integrated_technique,Program Analysis,U095
+integrated_technique,Program Analysis,U097
+integrated_technique,Program Analysis,U098
+integrated_technique,Program Analysis,U100
+integrated_technique,Program Analysis,U104
+integrated_technique,Program Analysis,U105
+integrated_technique,Program Analysis,U106
+integrated_technique,Program Analysis,U110
+integrated_technique,Program Analysis,U115
+integrated_technique,Program Analysis,U116
+integrated_technique,Program Analysis,U117
+integrated_technique,Program Analysis,U118
+integrated_technique,Program Analysis,U119
+integrated_technique,Program Analysis,U120
+integrated_technique,Program Analysis,U122
+integrated_technique,Program Analysis,U123
+integrated_technique,Program Analysis,U124
+integrated_technique,Program Analysis,U125
+integrated_technique,Program Analysis,U126
+integrated_technique,Program Analysis,U127
+integrated_technique,Program Analysis,U128
+integrated_technique,Program Analysis,U129
+integrated_technique,Program Analysis,U130
+integrated_technique,Program Analysis,U131
+integrated_technique,Program Analysis,U132
+integrated_technique,Program Analysis,U133
+integrated_technique,Program Analysis,U134
+integrated_technique,Program Analysis,U137
+integrated_technique,Program Analysis,U141
+integrated_technique,Program Analysis,U142
+integrated_technique,Program Analysis,U146
+integrated_technique,Program Analysis,U147
+integrated_technique,Program Analysis,U148
+integrated_technique,Program Analysis,U153
+integrated_technique,Program Analysis,U154
+integrated_technique,Program Analysis,U155
+integrated_technique,Program Analysis,U157
+integrated_technique,Program Analysis,U162
+integrated_technique,Program Analysis,U165
+integrated_technique,Program Analysis,U167
+integrated_technique,Program Analysis,U169
+integrated_technique,Program Analysis,U171
+integrated_technique,Program Analysis,U172
+integrated_technique,Program Analysis,U173
+integrated_technique,Program Analysis,U174
+integrated_technique,Program Analysis,U175
+integrated_technique,Program Analysis,U176
+integrated_technique,Program Analysis,U177
+integrated_technique,Program Analysis,U178
+integrated_technique,Program Analysis,U179
+integrated_technique,Program Analysis,U180
+integrated_technique,Program Analysis,U181
+integrated_technique,Program Analysis,U182
+integrated_technique,Program Analysis,U185
+integrated_technique,Program Analysis,U188
+integrated_technique,Program Analysis,U189
+integrated_technique,Program Analysis,U190
+integrated_technique,Program Analysis,U192
+integrated_technique,Program Analysis,U194
+integrated_technique,Program Analysis,U195
+integrated_technique,Program Analysis,U198
+integrated_technique,Program Analysis,U200
+integrated_technique,Program Analysis,U204
+integrated_technique,Program Analysis,U205
+integrated_technique,Program Analysis,U209
+integrated_technique,Program Analysis,U210
+integrated_technique,Program Analysis,U212
+integrated_technique,Program Analysis,U214
+integrated_technique,Program Analysis,U217
+integrated_technique,Program Analysis,U219
+integrated_technique,Program Analysis,U221
+integrated_technique,Program Analysis,U222
+integrated_technique,Program Analysis,U223
+integrated_technique,Program Analysis,U226
+integrated_technique,Program Analysis,U227
+integrated_technique,Program Analysis,U231
+integrated_technique,Program Analysis,U232
+integrated_technique,Program Analysis,U236
+integrated_technique,Program Repair,SN002
+integrated_technique,Program Repair,SN005
+integrated_technique,Program Repair,SN010
+integrated_technique,Program Repair,SN011
+integrated_technique,Program Repair,SN012
+integrated_technique,Program Repair,SN015
+integrated_technique,Program Repair,SN016
+integrated_technique,Program Repair,U002
+integrated_technique,Program Repair,U010
+integrated_technique,Program Repair,U013
+integrated_technique,Program Repair,U014
+integrated_technique,Program Repair,U015
+integrated_technique,Program Repair,U016
+integrated_technique,Program Repair,U019
+integrated_technique,Program Repair,U020
+integrated_technique,Program Repair,U022
+integrated_technique,Program Repair,U024
+integrated_technique,Program Repair,U025
+integrated_technique,Program Repair,U026
+integrated_technique,Program Repair,U032
+integrated_technique,Program Repair,U033
+integrated_technique,Program Repair,U034
+integrated_technique,Program Repair,U036
+integrated_technique,Program Repair,U038
+integrated_technique,Program Repair,U041
+integrated_technique,Program Repair,U042
+integrated_technique,Program Repair,U043
+integrated_technique,Program Repair,U045
+integrated_technique,Program Repair,U047
+integrated_technique,Program Repair,U050
+integrated_technique,Program Repair,U051
+integrated_technique,Program Repair,U053
+integrated_technique,Program Repair,U054
+integrated_technique,Program Repair,U055
+integrated_technique,Program Repair,U057
+integrated_technique,Program Repair,U059
+integrated_technique,Program Repair,U063
+integrated_technique,Program Repair,U065
+integrated_technique,Program Repair,U066
+integrated_technique,Program Repair,U073
+integrated_technique,Program Repair,U074
+integrated_technique,Program Repair,U077
+integrated_technique,Program Repair,U086
+integrated_technique,Program Repair,U091
+integrated_technique,Program Repair,U092
+integrated_technique,Program Repair,U097
+integrated_technique,Program Repair,U111
+integrated_technique,Program Repair,U115
+integrated_technique,Program Repair,U116
+integrated_technique,Program Repair,U117
+integrated_technique,Program Repair,U118
+integrated_technique,Program Repair,U119
+integrated_technique,Program Repair,U120
+integrated_technique,Program Repair,U122
+integrated_technique,Program Repair,U123
+integrated_technique,Program Repair,U124
+integrated_technique,Program Repair,U126
+integrated_technique,Program Repair,U128
+integrated_technique,Program Repair,U129
+integrated_technique,Program Repair,U130
+integrated_technique,Program Repair,U131
+integrated_technique,Program Repair,U132
+integrated_technique,Program Repair,U133
+integrated_technique,Program Repair,U135
+integrated_technique,Program Repair,U136
+integrated_technique,Program Repair,U142
+integrated_technique,Program Repair,U145
+integrated_technique,Program Repair,U146
+integrated_technique,Program Repair,U148
+integrated_technique,Program Repair,U149
+integrated_technique,Program Repair,U154
+integrated_technique,Program Repair,U155
+integrated_technique,Program Repair,U156
+integrated_technique,Program Repair,U159
+integrated_technique,Program Repair,U162
+integrated_technique,Program Repair,U165
+integrated_technique,Program Repair,U169
+integrated_technique,Program Repair,U171
+integrated_technique,Program Repair,U172
+integrated_technique,Program Repair,U174
+integrated_technique,Program Repair,U175
+integrated_technique,Program Repair,U176
+integrated_technique,Program Repair,U179
+integrated_technique,Program Repair,U189
+integrated_technique,Program Repair,U190
+integrated_technique,Program Repair,U191
+integrated_technique,Program Repair,U193
+integrated_technique,Program Repair,U195
+integrated_technique,Program Repair,U199
+integrated_technique,Program Repair,U200
+integrated_technique,Program Repair,U203
+integrated_technique,Program Repair,U204
+integrated_technique,Program Repair,U206
+integrated_technique,Program Repair,U209
+integrated_technique,Program Repair,U210
+integrated_technique,Program Repair,U212
+integrated_technique,Program Repair,U214
+integrated_technique,Program Repair,U216
+integrated_technique,Program Repair,U219
+integrated_technique,Program Repair,U222
+integrated_technique,Program Repair,U227
+integrated_technique,Program Repair,U234
+integrated_technique,Program Repair,U235
+integrated_technique,Execution/Coverage Feedback,SN002
+integrated_technique,Execution/Coverage Feedback,SN005
+integrated_technique,Execution/Coverage Feedback,SN008
+integrated_technique,Execution/Coverage Feedback,SN010
+integrated_technique,Execution/Coverage Feedback,SN011
+integrated_technique,Execution/Coverage Feedback,SN012
+integrated_technique,Execution/Coverage Feedback,SN014
+integrated_technique,Execution/Coverage Feedback,SN015
+integrated_technique,Execution/Coverage Feedback,SN016
+integrated_technique,Execution/Coverage Feedback,U012
+integrated_technique,Execution/Coverage Feedback,U014
+integrated_technique,Execution/Coverage Feedback,U016
+integrated_technique,Execution/Coverage Feedback,U017
+integrated_technique,Execution/Coverage Feedback,U020
+integrated_technique,Execution/Coverage Feedback,U022
+integrated_technique,Execution/Coverage Feedback,U023
+integrated_technique,Execution/Coverage Feedback,U025
+integrated_technique,Execution/Coverage Feedback,U026
+integrated_technique,Execution/Coverage Feedback,U034
+integrated_technique,Execution/Coverage Feedback,U036
+integrated_technique,Execution/Coverage Feedback,U038
+integrated_technique,Execution/Coverage Feedback,U039
+integrated_technique,Execution/Coverage Feedback,U042
+integrated_technique,Execution/Coverage Feedback,U049
+integrated_technique,Execution/Coverage Feedback,U054
+integrated_technique,Execution/Coverage Feedback,U055
+integrated_technique,Execution/Coverage Feedback,U056
+integrated_technique,Execution/Coverage Feedback,U058
+integrated_technique,Execution/Coverage Feedback,U069
+integrated_technique,Execution/Coverage Feedback,U072
+integrated_technique,Execution/Coverage Feedback,U074
+integrated_technique,Execution/Coverage Feedback,U091
+integrated_technique,Execution/Coverage Feedback,U094
+integrated_technique,Execution/Coverage Feedback,U098
+integrated_technique,Execution/Coverage Feedback,U102
+integrated_technique,Execution/Coverage Feedback,U103
+integrated_technique,Execution/Coverage Feedback,U105
+integrated_technique,Execution/Coverage Feedback,U110
+integrated_technique,Execution/Coverage Feedback,U111
+integrated_technique,Execution/Coverage Feedback,U115
+integrated_technique,Execution/Coverage Feedback,U116
+integrated_technique,Execution/Coverage Feedback,U117
+integrated_technique,Execution/Coverage Feedback,U118
+integrated_technique,Execution/Coverage Feedback,U119
+integrated_technique,Execution/Coverage Feedback,U120
+integrated_technique,Execution/Coverage Feedback,U123
+integrated_technique,Execution/Coverage Feedback,U124
+integrated_technique,Execution/Coverage Feedback,U126
+integrated_technique,Execution/Coverage Feedback,U128
+integrated_technique,Execution/Coverage Feedback,U129
+integrated_technique,Execution/Coverage Feedback,U131
+integrated_technique,Execution/Coverage Feedback,U133
+integrated_technique,Execution/Coverage Feedback,U134
+integrated_technique,Execution/Coverage Feedback,U136
+integrated_technique,Execution/Coverage Feedback,U137
+integrated_technique,Execution/Coverage Feedback,U141
+integrated_technique,Execution/Coverage Feedback,U145
+integrated_technique,Execution/Coverage Feedback,U146
+integrated_technique,Execution/Coverage Feedback,U148
+integrated_technique,Execution/Coverage Feedback,U149
+integrated_technique,Execution/Coverage Feedback,U153
+integrated_technique,Execution/Coverage Feedback,U154
+integrated_technique,Execution/Coverage Feedback,U155
+integrated_technique,Execution/Coverage Feedback,U156
+integrated_technique,Execution/Coverage Feedback,U157
+integrated_technique,Execution/Coverage Feedback,U158
+integrated_technique,Execution/Coverage Feedback,U159
+integrated_technique,Execution/Coverage Feedback,U162
+integrated_technique,Execution/Coverage Feedback,U165
+integrated_technique,Execution/Coverage Feedback,U169
+integrated_technique,Execution/Coverage Feedback,U171
+integrated_technique,Execution/Coverage Feedback,U172
+integrated_technique,Execution/Coverage Feedback,U175
+integrated_technique,Execution/Coverage Feedback,U176
+integrated_technique,Execution/Coverage Feedback,U178
+integrated_technique,Execution/Coverage Feedback,U179
+integrated_technique,Execution/Coverage Feedback,U189
+integrated_technique,Execution/Coverage Feedback,U191
+integrated_technique,Execution/Coverage Feedback,U193
+integrated_technique,Execution/Coverage Feedback,U194
+integrated_technique,Execution/Coverage Feedback,U195
+integrated_technique,Execution/Coverage Feedback,U199
+integrated_technique,Execution/Coverage Feedback,U200
+integrated_technique,Execution/Coverage Feedback,U201
+integrated_technique,Execution/Coverage Feedback,U202
+integrated_technique,Execution/Coverage Feedback,U203
+integrated_technique,Execution/Coverage Feedback,U204
+integrated_technique,Execution/Coverage Feedback,U209
+integrated_technique,Execution/Coverage Feedback,U210
+integrated_technique,Execution/Coverage Feedback,U212
+integrated_technique,Execution/Coverage Feedback,U213
+integrated_technique,Execution/Coverage Feedback,U214
+integrated_technique,Execution/Coverage Feedback,U216
+integrated_technique,Execution/Coverage Feedback,U219
+integrated_technique,Execution/Coverage Feedback,U221
+integrated_technique,Execution/Coverage Feedback,U222
+integrated_technique,Execution/Coverage Feedback,U223
+integrated_technique,Execution/Coverage Feedback,U226
+integrated_technique,Execution/Coverage Feedback,U227
+integrated_technique,Execution/Coverage Feedback,U229
+integrated_technique,Execution/Coverage Feedback,U233
+integrated_technique,Execution/Coverage Feedback,U234
+integrated_technique,Information Retrieval,SN001
+integrated_technique,Information Retrieval,SN003
+integrated_technique,Information Retrieval,SN012
+integrated_technique,Information Retrieval,SN015
+integrated_technique,Information Retrieval,U008
+integrated_technique,Information Retrieval,U015
+integrated_technique,Information Retrieval,U016
+integrated_technique,Information Retrieval,U019
+integrated_technique,Information Retrieval,U020
+integrated_technique,Information Retrieval,U025
+integrated_technique,Information Retrieval,U026
+integrated_technique,Information Retrieval,U027
+integrated_technique,Information Retrieval,U029
+integrated_technique,Information Retrieval,U030
+integrated_technique,Information Retrieval,U033
+integrated_technique,Information Retrieval,U046
+integrated_technique,Information Retrieval,U051
+integrated_technique,Information Retrieval,U066
+integrated_technique,Information Retrieval,U070
+integrated_technique,Information Retrieval,U074
+integrated_technique,Information Retrieval,U086
+integrated_technique,Information Retrieval,U092
+integrated_technique,Information Retrieval,U097
+integrated_technique,Information Retrieval,U100
+integrated_technique,Information Retrieval,U105
+integrated_technique,Information Retrieval,U108
+integrated_technique,Information Retrieval,U109
+integrated_technique,Information Retrieval,U111
+integrated_technique,Information Retrieval,U116
+integrated_technique,Information Retrieval,U117
+integrated_technique,Information Retrieval,U118
+integrated_technique,Information Retrieval,U119
+integrated_technique,Information Retrieval,U120
+integrated_technique,Information Retrieval,U122
+integrated_technique,Information Retrieval,U123
+integrated_technique,Information Retrieval,U124
+integrated_technique,Information Retrieval,U126
+integrated_technique,Information Retrieval,U127
+integrated_technique,Information Retrieval,U128
+integrated_technique,Information Retrieval,U129
+integrated_technique,Information Retrieval,U130
+integrated_technique,Information Retrieval,U131
+integrated_technique,Information Retrieval,U132
+integrated_technique,Information Retrieval,U133
+integrated_technique,Information Retrieval,U146
+integrated_technique,Information Retrieval,U154
+integrated_technique,Information Retrieval,U155
+integrated_technique,Information Retrieval,U163
+integrated_technique,Information Retrieval,U165
+integrated_technique,Information Retrieval,U169
+integrated_technique,Information Retrieval,U171
+integrated_technique,Information Retrieval,U172
+integrated_technique,Information Retrieval,U176
+integrated_technique,Information Retrieval,U178
+integrated_technique,Information Retrieval,U179
+integrated_technique,Information Retrieval,U181
+integrated_technique,Information Retrieval,U185
+integrated_technique,Information Retrieval,U192
+integrated_technique,Information Retrieval,U193
+integrated_technique,Information Retrieval,U204
+integrated_technique,Information Retrieval,U210
+integrated_technique,Information Retrieval,U212
+integrated_technique,Information Retrieval,U215
+integrated_technique,Information Retrieval,U216
+integrated_technique,Information Retrieval,U222
+integrated_technique,Information Retrieval,U223
+integrated_technique,Information Retrieval,U226
+integrated_technique,Information Retrieval,U232
+integrated_technique,Information Retrieval,U234
+integrated_technique,Information Retrieval,U236
+integrated_technique,Not coded into the listed integration categories,SN004
+integrated_technique,Not coded into the listed integration categories,SN007
+integrated_technique,Not coded into the listed integration categories,SN009
+integrated_technique,Not coded into the listed integration categories,SN013
+integrated_technique,Not coded into the listed integration categories,SN017
+integrated_technique,Not coded into the listed integration categories,U007
+integrated_technique,Not coded into the listed integration categories,U035
+integrated_technique,Not coded into the listed integration categories,U044
+integrated_technique,Not coded into the listed integration categories,U048
+integrated_technique,Not coded into the listed integration categories,U052
+integrated_technique,Not coded into the listed integration categories,U068
+integrated_technique,Not coded into the listed integration categories,U078
+integrated_technique,Not coded into the listed integration categories,U082
+integrated_technique,Not coded into the listed integration categories,U084
+integrated_technique,Not coded into the listed integration categories,U088
+integrated_technique,Not coded into the listed integration categories,U090
+integrated_technique,Not coded into the listed integration categories,U099
+integrated_technique,Not coded into the listed integration categories,U101
+integrated_technique,Not coded into the listed integration categories,U107
+integrated_technique,Not coded into the listed integration categories,U140
+integrated_technique,Not coded into the listed integration categories,U160
+integrated_technique,Not coded into the listed integration categories,U166
+integrated_technique,Not coded into the listed integration categories,U196
+integrated_technique,Not coded into the listed integration categories,U207
+integrated_technique,Not coded into the listed integration categories,U208
+integrated_technique,Not coded into the listed integration categories,U211
+integrated_technique,Not coded into the listed integration categories,U220
+integrated_technique,Not coded into the listed integration categories,U224
+integrated_technique,Not coded into the listed integration categories,U230
+integrated_technique,Not coded into the listed integration categories,U237
+integrated_technique,Not coded into the listed integration categories,U238
+integrated_technique,Not coded into the listed integration categories,U239
+integrated_technique,SBST Tools,SN003
+integrated_technique,SBST Tools,SN011
+integrated_technique,SBST Tools,SN016
+integrated_technique,SBST Tools,U005
+integrated_technique,SBST Tools,U011
+integrated_technique,SBST Tools,U017
+integrated_technique,SBST Tools,U023
+integrated_technique,SBST Tools,U024
+integrated_technique,SBST Tools,U034
+integrated_technique,SBST Tools,U039
+integrated_technique,SBST Tools,U040
+integrated_technique,SBST Tools,U051
+integrated_technique,SBST Tools,U057
+integrated_technique,SBST Tools,U074
+integrated_technique,SBST Tools,U075
+integrated_technique,SBST Tools,U079
+integrated_technique,SBST Tools,U087
+integrated_technique,SBST Tools,U089
+integrated_technique,SBST Tools,U096
+integrated_technique,SBST Tools,U097
+integrated_technique,SBST Tools,U108
+integrated_technique,SBST Tools,U109
+integrated_technique,SBST Tools,U162
+integrated_technique,SBST Tools,U178
+integrated_technique,SBST Tools,U180
+integrated_technique,SBST Tools,U181
+integrated_technique,SBST Tools,U193
+integrated_technique,SBST Tools,U209
+integrated_technique,SBST Tools,U217
+integrated_technique,SBST Tools,U232
+integrated_technique,Differential Testing,U018
+integrated_technique,Differential Testing,U059
+integrated_technique,Differential Testing,U083
+integrated_technique,Differential Testing,U103
+integrated_technique,Differential Testing,U117
+integrated_technique,Differential Testing,U127
+integrated_technique,Differential Testing,U135
+integrated_technique,Differential Testing,U141
+integrated_technique,Differential Testing,U149
+integrated_technique,Differential Testing,U157
+integrated_technique,Differential Testing,U198
+integrated_technique,Differential Testing,U201
+integrated_technique,Differential Testing,U231
+integrated_technique,Differential Testing,U233
+integrated_technique,Differential Testing,U234
+integrated_technique,Differential Testing,U235
+integrated_technique,Mutation Testing,U012
+integrated_technique,Mutation Testing,U022
+integrated_technique,Mutation Testing,U102
+integrated_technique,Mutation Testing,U133
+integrated_technique,Mutation Testing,U136
+integrated_technique,Mutation Testing,U141
+integrated_technique,Mutation Testing,U145
+integrated_technique,Mutation Testing,U149
+integrated_technique,Mutation Testing,U155
+integrated_technique,Mutation Testing,U156
+integrated_technique,Mutation Testing,U197
+integrated_technique,Mutation Testing,U219
+integrated_technique,Mutation Testing,U222
+integrated_technique,Mutation Testing,U225
+integrated_technique,Mutation Testing,U226
+integrated_technique,Mutation Testing,U229
+integrated_technique,Knowledge Graph,U128
+integrated_technique,Knowledge Graph,U130
+integrated_technique,Knowledge Graph,U154
+integrated_technique,Knowledge Graph,U176
+integrated_technique,Knowledge Graph,U222
+integrated_technique,Knowledge Graph,U223
+integrated_technique,Knowledge Graph,U226
+integrated_technique,Knowledge Graph,U234
+integrated_technique,Fuzzing,U054
+integrated_technique,Fuzzing,U058
+integrated_technique,Fuzzing,U157
+integrated_technique,Not reported,U060
+integrated_technique,Not reported,U067
+integrated_technique,Metamorphic Testing,U133
+integrated_technique,Symbolic Execution,U049
+generation_metric,Code Coverage,SN001
+generation_metric,Code Coverage,SN003
+generation_metric,Code Coverage,SN005
+generation_metric,Code Coverage,SN006
+generation_metric,Code Coverage,SN009
+generation_metric,Code Coverage,SN010
+generation_metric,Code Coverage,SN011
+generation_metric,Code Coverage,SN012
+generation_metric,Code Coverage,SN013
+generation_metric,Code Coverage,SN015
+generation_metric,Code Coverage,SN016
+generation_metric,Code Coverage,U002
+generation_metric,Code Coverage,U004
+generation_metric,Code Coverage,U010
+generation_metric,Code Coverage,U012
+generation_metric,Code Coverage,U013
+generation_metric,Code Coverage,U014
+generation_metric,Code Coverage,U015
+generation_metric,Code Coverage,U016
+generation_metric,Code Coverage,U017
+generation_metric,Code Coverage,U019
+generation_metric,Code Coverage,U020
+generation_metric,Code Coverage,U023
+generation_metric,Code Coverage,U025
+generation_metric,Code Coverage,U032
+generation_metric,Code Coverage,U034
+generation_metric,Code Coverage,U036
+generation_metric,Code Coverage,U038
+generation_metric,Code Coverage,U041
+generation_metric,Code Coverage,U042
+generation_metric,Code Coverage,U043
+generation_metric,Code Coverage,U045
+generation_metric,Code Coverage,U046
+generation_metric,Code Coverage,U047
+generation_metric,Code Coverage,U048
+generation_metric,Code Coverage,U053
+generation_metric,Code Coverage,U054
+generation_metric,Code Coverage,U055
+generation_metric,Code Coverage,U056
+generation_metric,Code Coverage,U058
+generation_metric,Code Coverage,U063
+generation_metric,Code Coverage,U065
+generation_metric,Code Coverage,U068
+generation_metric,Code Coverage,U071
+generation_metric,Code Coverage,U072
+generation_metric,Code Coverage,U077
+generation_metric,Code Coverage,U083
+generation_metric,Code Coverage,U086
+generation_metric,Code Coverage,U094
+generation_metric,Code Coverage,U098
+generation_metric,Code Coverage,U100
+generation_metric,Code Coverage,U101
+generation_metric,Code Coverage,U104
+generation_metric,Code Coverage,U105
+generation_metric,Code Coverage,U107
+generation_metric,Code Coverage,U110
+generation_metric,Code Coverage,U115
+generation_metric,Code Coverage,U119
+generation_metric,Code Coverage,U120
+generation_metric,Code Coverage,U122
+generation_metric,Code Coverage,U124
+generation_metric,Code Coverage,U136
+generation_metric,Code Coverage,U142
+generation_metric,Code Coverage,U145
+generation_metric,Code Coverage,U147
+generation_metric,Code Coverage,U148
+generation_metric,Code Coverage,U153
+generation_metric,Code Coverage,U156
+generation_metric,Code Coverage,U158
+generation_metric,Code Coverage,U159
+generation_metric,Code Coverage,U160
+generation_metric,Code Coverage,U162
+generation_metric,Code Coverage,U163
+generation_metric,Code Coverage,U165
+generation_metric,Code Coverage,U167
+generation_metric,Code Coverage,U174
+generation_metric,Code Coverage,U176
+generation_metric,Code Coverage,U177
+generation_metric,Code Coverage,U185
+generation_metric,Code Coverage,U189
+generation_metric,Code Coverage,U190
+generation_metric,Code Coverage,U194
+generation_metric,Code Coverage,U195
+generation_metric,Code Coverage,U196
+generation_metric,Code Coverage,U198
+generation_metric,Code Coverage,U199
+generation_metric,Code Coverage,U200
+generation_metric,Code Coverage,U203
+generation_metric,Code Coverage,U204
+generation_metric,Code Coverage,U205
+generation_metric,Code Coverage,U208
+generation_metric,Code Coverage,U209
+generation_metric,Code Coverage,U210
+generation_metric,Code Coverage,U211
+generation_metric,Code Coverage,U212
+generation_metric,Code Coverage,U213
+generation_metric,Code Coverage,U214
+generation_metric,Code Coverage,U215
+generation_metric,Code Coverage,U216
+generation_metric,Code Coverage,U219
+generation_metric,Code Coverage,U221
+generation_metric,Code Coverage,U222
+generation_metric,Code Coverage,U226
+generation_metric,Code Coverage,U227
+generation_metric,Code Coverage,U229
+generation_metric,Code Coverage,U235
+generation_metric,Line Coverage,SN001
+generation_metric,Line Coverage,SN006
+generation_metric,Line Coverage,SN015
+generation_metric,Line Coverage,U002
+generation_metric,Line Coverage,U013
+generation_metric,Line Coverage,U014
+generation_metric,Line Coverage,U015
+generation_metric,Line Coverage,U017
+generation_metric,Line Coverage,U023
+generation_metric,Line Coverage,U025
+generation_metric,Line Coverage,U032
+generation_metric,Line Coverage,U036
+generation_metric,Line Coverage,U038
+generation_metric,Line Coverage,U041
+generation_metric,Line Coverage,U042
+generation_metric,Line Coverage,U043
+generation_metric,Line Coverage,U045
+generation_metric,Line Coverage,U046
+generation_metric,Line Coverage,U047
+generation_metric,Line Coverage,U055
+generation_metric,Line Coverage,U063
+generation_metric,Line Coverage,U068
+generation_metric,Line Coverage,U071
+generation_metric,Line Coverage,U072
+generation_metric,Line Coverage,U077
+generation_metric,Line Coverage,U086
+generation_metric,Line Coverage,U094
+generation_metric,Line Coverage,U098
+generation_metric,Line Coverage,U100
+generation_metric,Line Coverage,U104
+generation_metric,Line Coverage,U107
+generation_metric,Line Coverage,U110
+generation_metric,Line Coverage,U115
+generation_metric,Line Coverage,U119
+generation_metric,Line Coverage,U120
+generation_metric,Line Coverage,U122
+generation_metric,Line Coverage,U124
+generation_metric,Line Coverage,U136
+generation_metric,Line Coverage,U142
+generation_metric,Line Coverage,U145
+generation_metric,Line Coverage,U148
+generation_metric,Line Coverage,U153
+generation_metric,Line Coverage,U156
+generation_metric,Line Coverage,U158
+generation_metric,Line Coverage,U159
+generation_metric,Line Coverage,U160
+generation_metric,Line Coverage,U162
+generation_metric,Line Coverage,U163
+generation_metric,Line Coverage,U174
+generation_metric,Line Coverage,U176
+generation_metric,Line Coverage,U177
+generation_metric,Line Coverage,U185
+generation_metric,Line Coverage,U189
+generation_metric,Line Coverage,U190
+generation_metric,Line Coverage,U194
+generation_metric,Line Coverage,U195
+generation_metric,Line Coverage,U196
+generation_metric,Line Coverage,U198
+generation_metric,Line Coverage,U199
+generation_metric,Line Coverage,U200
+generation_metric,Line Coverage,U203
+generation_metric,Line Coverage,U204
+generation_metric,Line Coverage,U205
+generation_metric,Line Coverage,U209
+generation_metric,Line Coverage,U210
+generation_metric,Line Coverage,U211
+generation_metric,Line Coverage,U213
+generation_metric,Line Coverage,U214
+generation_metric,Line Coverage,U215
+generation_metric,Line Coverage,U216
+generation_metric,Line Coverage,U219
+generation_metric,Line Coverage,U221
+generation_metric,Line Coverage,U222
+generation_metric,Line Coverage,U226
+generation_metric,Line Coverage,U227
+generation_metric,Line Coverage,U235
+generation_metric,Branch Coverage,SN006
+generation_metric,Branch Coverage,SN015
+generation_metric,Branch Coverage,SN016
+generation_metric,Branch Coverage,U012
+generation_metric,Branch Coverage,U013
+generation_metric,Branch Coverage,U015
+generation_metric,Branch Coverage,U016
+generation_metric,Branch Coverage,U017
+generation_metric,Branch Coverage,U019
+generation_metric,Branch Coverage,U023
+generation_metric,Branch Coverage,U025
+generation_metric,Branch Coverage,U036
+generation_metric,Branch Coverage,U038
+generation_metric,Branch Coverage,U041
+generation_metric,Branch Coverage,U042
+generation_metric,Branch Coverage,U045
+generation_metric,Branch Coverage,U047
+generation_metric,Branch Coverage,U053
+generation_metric,Branch Coverage,U054
+generation_metric,Branch Coverage,U055
+generation_metric,Branch Coverage,U056
+generation_metric,Branch Coverage,U063
+generation_metric,Branch Coverage,U065
+generation_metric,Branch Coverage,U077
+generation_metric,Branch Coverage,U083
+generation_metric,Branch Coverage,U086
+generation_metric,Branch Coverage,U094
+generation_metric,Branch Coverage,U100
+generation_metric,Branch Coverage,U101
+generation_metric,Branch Coverage,U104
+generation_metric,Branch Coverage,U110
+generation_metric,Branch Coverage,U115
+generation_metric,Branch Coverage,U119
+generation_metric,Branch Coverage,U120
+generation_metric,Branch Coverage,U124
+generation_metric,Branch Coverage,U136
+generation_metric,Branch Coverage,U142
+generation_metric,Branch Coverage,U145
+generation_metric,Branch Coverage,U147
+generation_metric,Branch Coverage,U148
+generation_metric,Branch Coverage,U153
+generation_metric,Branch Coverage,U156
+generation_metric,Branch Coverage,U158
+generation_metric,Branch Coverage,U159
+generation_metric,Branch Coverage,U160
+generation_metric,Branch Coverage,U162
+generation_metric,Branch Coverage,U163
+generation_metric,Branch Coverage,U165
+generation_metric,Branch Coverage,U167
+generation_metric,Branch Coverage,U174
+generation_metric,Branch Coverage,U176
+generation_metric,Branch Coverage,U177
+generation_metric,Branch Coverage,U189
+generation_metric,Branch Coverage,U194
+generation_metric,Branch Coverage,U195
+generation_metric,Branch Coverage,U199
+generation_metric,Branch Coverage,U200
+generation_metric,Branch Coverage,U203
+generation_metric,Branch Coverage,U205
+generation_metric,Branch Coverage,U208
+generation_metric,Branch Coverage,U209
+generation_metric,Branch Coverage,U210
+generation_metric,Branch Coverage,U212
+generation_metric,Branch Coverage,U214
+generation_metric,Branch Coverage,U215
+generation_metric,Branch Coverage,U219
+generation_metric,Branch Coverage,U221
+generation_metric,Branch Coverage,U222
+generation_metric,Branch Coverage,U226
+generation_metric,Branch Coverage,U227
+generation_metric,Branch Coverage,U229
+generation_metric,Pass Rate,SN001
+generation_metric,Pass Rate,SN005
+generation_metric,Pass Rate,SN009
+generation_metric,Pass Rate,U002
+generation_metric,Pass Rate,U010
+generation_metric,Pass Rate,U012
+generation_metric,Pass Rate,U013
+generation_metric,Pass Rate,U016
+generation_metric,Pass Rate,U017
+generation_metric,Pass Rate,U019
+generation_metric,Pass Rate,U025
+generation_metric,Pass Rate,U032
+generation_metric,Pass Rate,U036
+generation_metric,Pass Rate,U038
+generation_metric,Pass Rate,U041
+generation_metric,Pass Rate,U043
+generation_metric,Pass Rate,U045
+generation_metric,Pass Rate,U046
+generation_metric,Pass Rate,U047
+generation_metric,Pass Rate,U053
+generation_metric,Pass Rate,U065
+generation_metric,Pass Rate,U068
+generation_metric,Pass Rate,U070
+generation_metric,Pass Rate,U086
+generation_metric,Pass Rate,U088
+generation_metric,Pass Rate,U098
+generation_metric,Pass Rate,U100
+generation_metric,Pass Rate,U101
+generation_metric,Pass Rate,U107
+generation_metric,Pass Rate,U115
+generation_metric,Pass Rate,U119
+generation_metric,Pass Rate,U124
+generation_metric,Pass Rate,U133
+generation_metric,Pass Rate,U136
+generation_metric,Pass Rate,U142
+generation_metric,Pass Rate,U153
+generation_metric,Pass Rate,U154
+generation_metric,Pass Rate,U160
+generation_metric,Pass Rate,U162
+generation_metric,Pass Rate,U163
+generation_metric,Pass Rate,U165
+generation_metric,Pass Rate,U174
+generation_metric,Pass Rate,U189
+generation_metric,Pass Rate,U198
+generation_metric,Pass Rate,U199
+generation_metric,Pass Rate,U203
+generation_metric,Pass Rate,U204
+generation_metric,Pass Rate,U209
+generation_metric,Pass Rate,U229
+generation_metric,Pass Rate,U238
+generation_metric,Time,SN015
+generation_metric,Time,SN016
+generation_metric,Time,U013
+generation_metric,Time,U016
+generation_metric,Time,U017
+generation_metric,Time,U019
+generation_metric,Time,U020
+generation_metric,Time,U022
+generation_metric,Time,U025
+generation_metric,Time,U034
+generation_metric,Time,U038
+generation_metric,Time,U042
+generation_metric,Time,U053
+generation_metric,Time,U060
+generation_metric,Time,U066
+generation_metric,Time,U069
+generation_metric,Time,U070
+generation_metric,Time,U086
+generation_metric,Time,U098
+generation_metric,Time,U100
+generation_metric,Time,U115
+generation_metric,Time,U119
+generation_metric,Time,U120
+generation_metric,Time,U122
+generation_metric,Time,U124
+generation_metric,Time,U127
+generation_metric,Time,U133
+generation_metric,Time,U142
+generation_metric,Time,U145
+generation_metric,Time,U146
+generation_metric,Time,U156
+generation_metric,Time,U158
+generation_metric,Time,U162
+generation_metric,Time,U167
+generation_metric,Time,U174
+generation_metric,Time,U175
+generation_metric,Time,U176
+generation_metric,Time,U185
+generation_metric,Time,U197
+generation_metric,Time,U200
+generation_metric,Time,U205
+generation_metric,Time,U208
+generation_metric,Time,U209
+generation_metric,Time,U212
+generation_metric,Time,U216
+generation_metric,Time,U219
+generation_metric,Time,U221
+generation_metric,Time,U222
+generation_metric,Time,U238
+generation_metric,Time,U239
+generation_metric,Compile Rate,SN001
+generation_metric,Compile Rate,SN005
+generation_metric,Compile Rate,U002
+generation_metric,Compile Rate,U013
+generation_metric,Compile Rate,U015
+generation_metric,Compile Rate,U019
+generation_metric,Compile Rate,U032
+generation_metric,Compile Rate,U038
+generation_metric,Compile Rate,U041
+generation_metric,Compile Rate,U043
+generation_metric,Compile Rate,U047
+generation_metric,Compile Rate,U048
+generation_metric,Compile Rate,U053
+generation_metric,Compile Rate,U054
+generation_metric,Compile Rate,U070
+generation_metric,Compile Rate,U077
+generation_metric,Compile Rate,U086
+generation_metric,Compile Rate,U088
+generation_metric,Compile Rate,U100
+generation_metric,Compile Rate,U105
+generation_metric,Compile Rate,U110
+generation_metric,Compile Rate,U124
+generation_metric,Compile Rate,U142
+generation_metric,Compile Rate,U148
+generation_metric,Compile Rate,U154
+generation_metric,Compile Rate,U174
+generation_metric,Compile Rate,U177
+generation_metric,Compile Rate,U189
+generation_metric,Compile Rate,U190
+generation_metric,Compile Rate,U195
+generation_metric,Compile Rate,U196
+generation_metric,Compile Rate,U199
+generation_metric,Compile Rate,U204
+generation_metric,Compile Rate,U209
+generation_metric,Compile Rate,U210
+generation_metric,Compile Rate,U211
+generation_metric,Compile Rate,U216
+generation_metric,Compile Rate,U222
+generation_metric,Compile Rate,U227
+generation_metric,Compile Rate,U231
+generation_metric,Mutation Score,SN012
+generation_metric,Mutation Score,SN013
+generation_metric,Mutation Score,U010
+generation_metric,Mutation Score,U012
+generation_metric,Mutation Score,U013
+generation_metric,Mutation Score,U022
+generation_metric,Mutation Score,U032
+generation_metric,Mutation Score,U038
+generation_metric,Mutation Score,U043
+generation_metric,Mutation Score,U065
+generation_metric,Mutation Score,U068
+generation_metric,Mutation Score,U071
+generation_metric,Mutation Score,U077
+generation_metric,Mutation Score,U086
+generation_metric,Mutation Score,U098
+generation_metric,Mutation Score,U115
+generation_metric,Mutation Score,U119
+generation_metric,Mutation Score,U122
+generation_metric,Mutation Score,U136
+generation_metric,Mutation Score,U142
+generation_metric,Mutation Score,U145
+generation_metric,Mutation Score,U147
+generation_metric,Mutation Score,U153
+generation_metric,Mutation Score,U156
+generation_metric,Mutation Score,U159
+generation_metric,Mutation Score,U160
+generation_metric,Mutation Score,U162
+generation_metric,Mutation Score,U177
+generation_metric,Mutation Score,U190
+generation_metric,Mutation Score,U198
+generation_metric,Mutation Score,U199
+generation_metric,Mutation Score,U204
+generation_metric,Mutation Score,U208
+generation_metric,Mutation Score,U219
+generation_metric,Mutation Score,U221
+generation_metric,Mutation Score,U222
+generation_metric,Mutation Score,U226
+generation_metric,Mutation Score,U229
+generation_metric,Mutation Score,U230
+generation_metric,Test Count,SN015
+generation_metric,Test Count,U007
+generation_metric,Test Count,U013
+generation_metric,Test Count,U016
+generation_metric,Test Count,U022
+generation_metric,Test Count,U025
+generation_metric,Test Count,U034
+generation_metric,Test Count,U036
+generation_metric,Test Count,U038
+generation_metric,Test Count,U042
+generation_metric,Test Count,U047
+generation_metric,Test Count,U058
+generation_metric,Test Count,U072
+generation_metric,Test Count,U086
+generation_metric,Test Count,U110
+generation_metric,Test Count,U124
+generation_metric,Test Count,U127
+generation_metric,Test Count,U133
+generation_metric,Test Count,U135
+generation_metric,Test Count,U136
+generation_metric,Test Count,U147
+generation_metric,Test Count,U148
+generation_metric,Test Count,U162
+generation_metric,Test Count,U174
+generation_metric,Test Count,U176
+generation_metric,Test Count,U185
+generation_metric,Test Count,U196
+generation_metric,Test Count,U198
+generation_metric,Test Count,U199
+generation_metric,Test Count,U201
+generation_metric,Test Count,U203
+generation_metric,Test Count,U208
+generation_metric,Test Count,U219
+generation_metric,Test Count,U229
+generation_metric,Test Count,U235
+generation_metric,Real-bug Detection,U015
+generation_metric,Real-bug Detection,U046
+generation_metric,Real-bug Detection,U048
+generation_metric,Real-bug Detection,U066
+generation_metric,Real-bug Detection,U077
+generation_metric,Real-bug Detection,U086
+generation_metric,Real-bug Detection,U088
+generation_metric,Real-bug Detection,U100
+generation_metric,Real-bug Detection,U104
+generation_metric,Real-bug Detection,U107
+generation_metric,Real-bug Detection,U127
+generation_metric,Real-bug Detection,U133
+generation_metric,Real-bug Detection,U145
+generation_metric,Real-bug Detection,U146
+generation_metric,Real-bug Detection,U147
+generation_metric,Real-bug Detection,U148
+generation_metric,Real-bug Detection,U158
+generation_metric,Real-bug Detection,U165
+generation_metric,Real-bug Detection,U167
+generation_metric,Real-bug Detection,U175
+generation_metric,Real-bug Detection,U176
+generation_metric,Real-bug Detection,U195
+generation_metric,Real-bug Detection,U196
+generation_metric,Real-bug Detection,U215
+generation_metric,Real-bug Detection,U222
+generation_metric,Real-bug Detection,U226
+generation_metric,Real-bug Detection,U227
+generation_metric,Syntax Rate,SN006
+generation_metric,Syntax Rate,U002
+generation_metric,Syntax Rate,U009
+generation_metric,Syntax Rate,U012
+generation_metric,Syntax Rate,U013
+generation_metric,Syntax Rate,U017
+generation_metric,Syntax Rate,U019
+generation_metric,Syntax Rate,U022
+generation_metric,Syntax Rate,U032
+generation_metric,Syntax Rate,U038
+generation_metric,Syntax Rate,U046
+generation_metric,Syntax Rate,U065
+generation_metric,Syntax Rate,U088
+generation_metric,Syntax Rate,U098
+generation_metric,Syntax Rate,U101
+generation_metric,Syntax Rate,U104
+generation_metric,Syntax Rate,U122
+generation_metric,Syntax Rate,U153
+generation_metric,Syntax Rate,U158
+generation_metric,Syntax Rate,U189
+generation_metric,Syntax Rate,U190
+generation_metric,Syntax Rate,U205
+generation_metric,Syntax Rate,U211
+generation_metric,Syntax Rate,U222
+generation_metric,Cost,SN016
+generation_metric,Cost,U013
+generation_metric,Cost,U038
+generation_metric,Cost,U042
+generation_metric,Cost,U043
+generation_metric,Cost,U058
+generation_metric,Cost,U069
+generation_metric,Cost,U086
+generation_metric,Cost,U110
+generation_metric,Cost,U120
+generation_metric,Cost,U127
+generation_metric,Cost,U133
+generation_metric,Cost,U145
+generation_metric,Cost,U165
+generation_metric,Cost,U167
+generation_metric,Cost,U174
+generation_metric,Cost,U194
+generation_metric,Cost,U200
+generation_metric,Cost,U216
+generation_metric,Cost,U221
+generation_metric,Cost,U222
+generation_metric,Cost,U231
+generation_metric,Cost,U238
+generation_metric,Token Usage,U042
+generation_metric,Token Usage,U058
+generation_metric,Token Usage,U069
+generation_metric,Token Usage,U086
+generation_metric,Token Usage,U110
+generation_metric,Token Usage,U122
+generation_metric,Token Usage,U127
+generation_metric,Token Usage,U133
+generation_metric,Token Usage,U142
+generation_metric,Token Usage,U145
+generation_metric,Token Usage,U162
+generation_metric,Token Usage,U165
+generation_metric,Token Usage,U167
+generation_metric,Token Usage,U174
+generation_metric,Token Usage,U209
+generation_metric,Token Usage,U212
+generation_metric,Token Usage,U216
+generation_metric,Token Usage,U226
+generation_metric,Token Usage,U231
+generation_metric,Token Usage,U233
+generation_metric,Token Usage,U238
+generation_metric,Correct Rate,U002
+generation_metric,Correct Rate,U007
+generation_metric,Correct Rate,U013
+generation_metric,Correct Rate,U020
+generation_metric,Correct Rate,U045
+generation_metric,Correct Rate,U048
+generation_metric,Correct Rate,U070
+generation_metric,Correct Rate,U072
+generation_metric,Correct Rate,U083
+generation_metric,Correct Rate,U088
+generation_metric,Correct Rate,U107
+generation_metric,Correct Rate,U133
+generation_metric,Correct Rate,U196
+generation_metric,Correct Rate,U202
+generation_metric,Correct Rate,U233
+generation_metric,Failure-mode Distribution,U047
+generation_metric,Failure-mode Distribution,U056
+generation_metric,Failure-mode Distribution,U072
+generation_metric,Failure-mode Distribution,U101
+generation_metric,Failure-mode Distribution,U156
+generation_metric,Failure-mode Distribution,U167
+generation_metric,Failure-mode Distribution,U177
+generation_metric,Failure-mode Distribution,U196
+generation_metric,Failure-mode Distribution,U198
+generation_metric,Failure-mode Distribution,U203
+generation_metric,Failure-mode Distribution,U204
+generation_metric,Failure-mode Distribution,U231
+generation_metric,Precision,U018
+generation_metric,Precision,U066
+generation_metric,Precision,U069
+generation_metric,Precision,U071
+generation_metric,Precision,U088
+generation_metric,Precision,U103
+generation_metric,Precision,U135
+generation_metric,Precision,U146
+generation_metric,Precision,U157
+generation_metric,Precision,U175
+generation_metric,Precision,U202
+generation_metric,Precision,U222
+generation_metric,CodeBLEU,U004
+generation_metric,CodeBLEU,U065
+generation_metric,CodeBLEU,U104
+generation_metric,CodeBLEU,U105
+generation_metric,CodeBLEU,U106
+generation_metric,CodeBLEU,U107
+generation_metric,CodeBLEU,U154
+generation_metric,CodeBLEU,U158
+generation_metric,CodeBLEU,U163
+generation_metric,CodeBLEU,U165
+generation_metric,CodeBLEU,U190
+generation_metric,Readability,U002
+generation_metric,Readability,U013
+generation_metric,Readability,U019
+generation_metric,Readability,U039
+generation_metric,Readability,U043
+generation_metric,Readability,U048
+generation_metric,Readability,U055
+generation_metric,Readability,U086
+generation_metric,Readability,U124
+generation_metric,Readability,U211
+generation_metric,Readability,U222
+generation_metric,Execution Rate,SN006
+generation_metric,Execution Rate,SN016
+generation_metric,Execution Rate,U046
+generation_metric,Execution Rate,U127
+generation_metric,Execution Rate,U136
+generation_metric,Execution Rate,U160
+generation_metric,Execution Rate,U208
+generation_metric,Execution Rate,U213
+generation_metric,Execution Rate,U222
+generation_metric,Execution Rate,U227
+generation_metric,Statement Coverage,U010
+generation_metric,Statement Coverage,U016
+generation_metric,Statement Coverage,U019
+generation_metric,Statement Coverage,U053
+generation_metric,Statement Coverage,U056
+generation_metric,Statement Coverage,U063
+generation_metric,Statement Coverage,U083
+generation_metric,Statement Coverage,U147
+generation_metric,Statement Coverage,U165
+generation_metric,Statement Coverage,U229
+generation_metric,Method Coverage,U013
+generation_metric,Method Coverage,U020
+generation_metric,Method Coverage,U055
+generation_metric,Method Coverage,U058
+generation_metric,Method Coverage,U162
+generation_metric,Method Coverage,U177
+generation_metric,Method Coverage,U189
+generation_metric,Method Coverage,U195
+generation_metric,Method Coverage,U211
+generation_metric,Recall,U018
+generation_metric,Recall,U066
+generation_metric,Recall,U069
+generation_metric,Recall,U071
+generation_metric,Recall,U135
+generation_metric,Recall,U146
+generation_metric,Recall,U157
+generation_metric,Recall,U175
+generation_metric,Recall,U202
+generation_metric,Executable Test Rate,U100
+generation_metric,Executable Test Rate,U110
+generation_metric,Executable Test Rate,U133
+generation_metric,Executable Test Rate,U176
+generation_metric,Executable Test Rate,U185
+generation_metric,Executable Test Rate,U195
+generation_metric,Executable Test Rate,U203
+generation_metric,Executable Test Rate,U239
+generation_metric,F1,U018
+generation_metric,F1,U091
+generation_metric,F1,U135
+generation_metric,F1,U146
+generation_metric,F1,U157
+generation_metric,F1,U175
+generation_metric,F1,U197
+generation_metric,F1,U202
+generation_metric,Test Smells,U009
+generation_metric,Test Smells,U025
+generation_metric,Test Smells,U041
+generation_metric,Test Smells,U047
+generation_metric,Test Smells,U166
+generation_metric,Test Smells,U177
+generation_metric,Test Smells,U211
+generation_metric,Failure-type Distribution,U017
+generation_metric,Failure-type Distribution,U032
+generation_metric,Failure-type Distribution,U065
+generation_metric,Failure-type Distribution,U068
+generation_metric,Failure-type Distribution,U098
+generation_metric,Failure-type Distribution,U103
+generation_metric,Human Evaluation,U014
+generation_metric,Human Evaluation,U050
+generation_metric,Human Evaluation,U055
+generation_metric,Human Evaluation,U124
+generation_metric,Human Evaluation,U222
+generation_metric,Human Evaluation,U233
+generation_metric,Runtime Error Rate,U070
+generation_metric,Runtime Error Rate,U101
+generation_metric,Runtime Error Rate,U110
+generation_metric,Runtime Error Rate,U154
+generation_metric,Runtime Error Rate,U162
+generation_metric,Runtime Error Rate,U196
+generation_metric,Assertion Count,U019
+generation_metric,Assertion Count,U038
+generation_metric,Assertion Count,U048
+generation_metric,Assertion Count,U060
+generation_metric,Assertion Count,U215
+generation_metric,Assertion Pass Rate,U054
+generation_metric,Assertion Pass Rate,U056
+generation_metric,Assertion Pass Rate,U063
+generation_metric,Assertion Pass Rate,U110
+generation_metric,Assertion Pass Rate,U159
+generation_metric,Edit Similarity,U016
+generation_metric,Edit Similarity,U019
+generation_metric,Edit Similarity,U034
+generation_metric,Edit Similarity,U101
+generation_metric,Edit Similarity,U105
+generation_metric,Synthetic-bug Detection,U022
+generation_metric,Synthetic-bug Detection,U072
+generation_metric,Synthetic-bug Detection,U202
+generation_metric,Synthetic-bug Detection,U226
+generation_metric,Synthetic-bug Detection,U235
+generation_metric,Accuracy,SN007
+generation_metric,Accuracy,SN008
+generation_metric,Accuracy,U091
+generation_metric,Accuracy,U175
+generation_metric,Assertion Quality,U025
+generation_metric,Assertion Quality,U055
+generation_metric,Assertion Quality,U086
+generation_metric,Assertion Quality,U207
+generation_metric,Developer Acceptance,U058
+generation_metric,Developer Acceptance,U100
+generation_metric,Developer Acceptance,U105
+generation_metric,Developer Acceptance,U174
+generation_metric,Instruction Coverage,U048
+generation_metric,Instruction Coverage,U065
+generation_metric,Instruction Coverage,U077
+generation_metric,Instruction Coverage,U211
+generation_metric,Repair Success Rate,U022
+generation_metric,Repair Success Rate,U119
+generation_metric,Repair Success Rate,U156
+generation_metric,Repair Success Rate,U214
+generation_metric,Assertion Presence,U009
+generation_metric,Assertion Presence,U203
+generation_metric,Assertion Presence,U207
+generation_metric,BLEU,U105
+generation_metric,BLEU,U106
+generation_metric,BLEU,U190
+generation_metric,Buggy-solution Detection,U022
+generation_metric,Buggy-solution Detection,U153
+generation_metric,Buggy-solution Detection,U229
+generation_metric,Combined Line/Branch Coverage,U034
+generation_metric,Combined Line/Branch Coverage,U042
+generation_metric,Combined Line/Branch Coverage,U120
+generation_metric,Correlation,SN009
+generation_metric,Correlation,U148
+generation_metric,Correlation,U197
+generation_metric,Coverage Progression,U023
+generation_metric,Coverage Progression,U120
+generation_metric,Coverage Progression,U200
+generation_metric,Cyclomatic Complexity,U048
+generation_metric,Cyclomatic Complexity,U086
+generation_metric,Cyclomatic Complexity,U211
+generation_metric,False-positive Count,U018
+generation_metric,False-positive Count,U135
+generation_metric,False-positive Count,U175
+generation_metric,Output Format Success,U007
+generation_metric,Output Format Success,U211
+generation_metric,Output Format Success,U233
+generation_metric,Rater Agreement,U133
+generation_metric,Rater Agreement,U148
+generation_metric,Rater Agreement,U233
+generation_metric,Repair Iterations,U019
+generation_metric,Repair Iterations,U020
+generation_metric,Repair Iterations,U212
+generation_metric,Test Code Size,U060
+generation_metric,Test Code Size,U086
+generation_metric,Test Code Size,U215
+generation_metric,Adoption Effort,U086
+generation_metric,Adoption Effort,U222
+generation_metric,Applicability,U133
+generation_metric,Applicability,U194
+generation_metric,Assertion Correctness,SN006
+generation_metric,Assertion Correctness,U048
+generation_metric,Class Coverage,U189
+generation_metric,Class Coverage,U195
+generation_metric,Coding-standard Violations,U048
+generation_metric,Coding-standard Violations,U211
+generation_metric,Cognitive Complexity,U048
+generation_metric,Cognitive Complexity,U211
+generation_metric,Exact Match,U004
+generation_metric,Exact Match,U105
+generation_metric,Execution Success Rate,U104
+generation_metric,Execution Success Rate,U158
+generation_metric,Failing Test Count,U013
+generation_metric,Failing Test Count,U157
+generation_metric,False Positive Rate,U069
+generation_metric,False Positive Rate,U148
+generation_metric,False Rejection Rate,U091
+generation_metric,False Rejection Rate,U233
+generation_metric,Focal-call Presence,U009
+generation_metric,Focal-call Presence,U204
+generation_metric,Generation Rate,U211
+generation_metric,Generation Rate,U226
+generation_metric,Generation Success Rate,U162
+generation_metric,Generation Success Rate,U212
+generation_metric,Human Quality,U019
+generation_metric,Human Quality,U043
+generation_metric,Human Task Completion Time,U084
+generation_metric,Human Task Completion Time,U194
+generation_metric,Input Attack Rate,SN007
+generation_metric,Input Attack Rate,U202
+generation_metric,Iteration Count,SN016
+generation_metric,Iteration Count,U056
+generation_metric,Killed Mutant Count,U022
+generation_metric,Killed Mutant Count,U185
+generation_metric,LLM Calls,U199
+generation_metric,LLM Calls,U233
+generation_metric,Partial Pass Rate,SN012
+generation_metric,Partial Pass Rate,U047
+generation_metric,Path Coverage,SN006
+generation_metric,Path Coverage,U194
+generation_metric,Query Count,U034
+generation_metric,Query Count,U042
+generation_metric,Static Warnings,U048
+generation_metric,Static Warnings,U211
+generation_metric,Test Strength,U038
+generation_metric,Test Strength,U162
+generation_metric,AST Similarity,U119
+generation_metric,Additional Mock Count,U025
+generation_metric,Additional Successfully Tested Method Count,U219
+generation_metric,Adoption Intention,U043
+generation_metric,Assertion Complexity,U162
+generation_metric,Assertion Error Rate,U022
+generation_metric,Assertion Failure Rate,U162
+generation_metric,Assertion-error Distribution,U048
+generation_metric,Auxiliary evaluation only (no test-quality metrics),U125
+generation_metric,Average Unique Valid Verification Count per Seed,U227
+generation_metric,Branch Overlap Ratio,U101
+generation_metric,Breaking-change Detecting Test Count,U231
+generation_metric,Breaking-change Detection,U231
+generation_metric,Bug-revealing Test/Suite Count,U067
+generation_metric,Bug-validating Suite Rate,U067
+generation_metric,C3 Coverage,U039
+generation_metric,C3 Invocation Coverage,U039
+generation_metric,Changed Test LOC,U203
+generation_metric,Code Complexity,U211
+generation_metric,Code Extraction Success,U211
+generation_metric,Code Quality,U048
+generation_metric,Code-documentation Inconsistency Detection,U135
+generation_metric,Cognitive Load,U084
+generation_metric,Comment Presence,U009
+generation_metric,Compilable Test Count,U004
+generation_metric,Compilation-error Distribution,U211
+generation_metric,Compile Error Rate,SN015
+generation_metric,Compile Rate (evidence unresolved),U036
+generation_metric,Composite Test Quality,U098
+generation_metric,Composite Utility,U222
+generation_metric,Computational Cost,U205
+generation_metric,Condition Coverage,U002
+generation_metric,Correct Assertion Rate (definition disputed),U013
+generation_metric,Correct Fault-revealing Test Rate,U007
+generation_metric,Cost-normalized Detection,U233
+generation_metric,Coverage (unspecified),U004
+generation_metric,Coverage Efficiency,U205
+generation_metric,Coverage Gain across Queries,U160
+generation_metric,Coverage Improvement,U185
+generation_metric,Coverage-increasing Function Proportion,U042
+generation_metric,Coverage-per-input,U167
+generation_metric,Coverage-set Similarity,U154
+generation_metric,Coverage-versus-executions,U213
+generation_metric,Coverage-versus-suite-size,U153
+generation_metric,Covered-edge Count,U167
+generation_metric,Defect Yield,U230
+generation_metric,Dependency Coverage,U210
+generation_metric,Descriptive-name Presence,U009
+generation_metric,Developer Acknowledgment,U165
+generation_metric,Developer-reported Effort Reduction,U100
+generation_metric,Diff-touching Test Rate,U127
+generation_metric,Differential-input Rate,U007
+generation_metric,Discrimination Reward,U201
+generation_metric,Distinct Input Count,U215
+generation_metric,Docstring Presence,U215
+generation_metric,Elo,U068
+generation_metric,Empty Output Rate,U101
+generation_metric,Error Rate/Distribution,U238
+generation_metric,Exception Count,U167
+generation_metric,Exception-type Match,U105
+generation_metric,Executability (case-level binary),U060
+generation_metric,Failure/Repair Proportions,U016
+generation_metric,False Acceptance Rate,U091
+generation_metric,False Alarm Rate (invalid/executable),U133
+generation_metric,False Discovery Proportion,U146
+generation_metric,False-positive Rate,U157
+generation_metric,Fault Detection Rate,U107
+generation_metric,Fault Triggering Rate,U235
+generation_metric,Fault-detected Program Count,U103
+generation_metric,Fault-triggering Success Rate,U103
+generation_metric,Files-with-Assertions Count,U207
+generation_metric,First-attempt Success Rate,U212
+generation_metric,Fitness Score,U162
+generation_metric,Flakiness Indicators,U207
+generation_metric,Focal-call Success Rate,U045
+generation_metric,Focal-method Testing Rate,U002
+generation_metric,Gain Inflation,U233
+generation_metric,Generated-statement Parseability,U034
+generation_metric,Generation Diversity,U068
+generation_metric,Generation Failure Rate,U067
+generation_metric,Generation Iterations,U221
+generation_metric,Grade Agreement,U069
+generation_metric,Grading Accuracy,U069
+generation_metric,Hallucinated Classes,U199
+generation_metric,Hard-to-cover Branch Coverage,U017
+generation_metric,High-coverage Class Count,U115
+generation_metric,Historical-fault Detection,U233
+generation_metric,Historical-revert Detection,U230
+generation_metric,Human Task Accuracy,U194
+generation_metric,Human Task Correctness,U084
+generation_metric,Inference Steps,U205
+generation_metric,Input-output Novelty,U047
+generation_metric,LLM-judged Pairwise Win Rate,U061
+generation_metric,LLM-voter Agreement,U222
+generation_metric,Line Acceptance Rate,U100
+generation_metric,Line Edit Distance,U100
+generation_metric,Maintainability,U124
+generation_metric,Meaningless Test Case Rate,U032
+generation_metric,Metamorphic Consistency,U133
+generation_metric,Misguided Test Rate,U148
+generation_metric,Missed-statement Overlap Count,U056
+generation_metric,Mock Usage,U086
+generation_metric,Modified Condition Coverage,U147
+generation_metric,Monetary Cost (evidence unresolved),U239
+generation_metric,Mutant-set Similarity,U154
+generation_metric,Mutation@Pass Score,U204
+generation_metric,Mutator Coverage,U185
+generation_metric,NDCG,U197
+generation_metric,Non-trivial Assertion/Test Proportion,U016
+generation_metric,Oracle Type Distribution,U231
+generation_metric,Output Parsing/Completeness,U070
+generation_metric,Output Token Length,U156
+generation_metric,Pair-wise Fix Precision,U135
+generation_metric,Parameter Coverage,U039
+generation_metric,Parameter Diversity,U060
+generation_metric,Pareto Quality,U229
+generation_metric,Pass-without-focal-call Rate,U204
+generation_metric,Passed-test Branch Coverage,U124
+generation_metric,Passed-test Line Coverage,U124
+generation_metric,Passing Test Count,U004
+generation_metric,Passing Test Result (unit disputed),U063
+generation_metric,Path-following Accuracy,U045
+generation_metric,Per-target Win Rate,U213
+generation_metric,Per-test Efficiency,U229
+generation_metric,Perceived Assertion Quality,U222
+generation_metric,Perceived Correctness,U124
+generation_metric,Perceived Usability,U043
+generation_metric,Plateau Length,U120
+generation_metric,Prediction Error,U197
+generation_metric,Program-input Execution Count,U233
+generation_metric,Program-without-successful-suite Rate,U010
+generation_metric,Qualitative Readability,U004
+generation_metric,ROUGE,U004
+generation_metric,Referability,U154
+generation_metric,Reference Availability,U154
+generation_metric,Region Coverage,U058
+generation_metric,Rejected Test/Suite Count,U067
+generation_metric,Reported/Fixed Inconsistency Count,U135
+generation_metric,Resolve-loop Iterations,U216
+generation_metric,Retained Test Count,U071
+generation_metric,Runnable Rate,U105
+generation_metric,Runtime Error Decline Rate,SN015
+generation_metric,Scenario Diversity,U208
+generation_metric,Semantic Validity Rate,U196
+generation_metric,Sequence Score,U148
+generation_metric,Solved-instance Count,U204
+generation_metric,Specificity,U135
+generation_metric,Stated Adoption Willingness,U055
+generation_metric,Static Edge-case Diversity,U207
+generation_metric,Success-by-iteration Distribution,U042
+generation_metric,Success-versus-attempts,U049
+generation_metric,Summed Evaluation Time,U233
+generation_metric,Target-line Accuracy (motivating example),U120
+generation_metric,Target-reaching Success,U049
+generation_metric,Target-reaching Task Count,U049
+generation_metric,Target-throw Coverage Overlap,U105
+generation_metric,Task Detection Rate,U233
+generation_metric,Test Budget,U091
+generation_metric,Test Complexity,U086
+generation_metric,Test Count (worked example),U210
+generation_metric,Test Defect Rate,U230
+generation_metric,Test Execution Count,U127
+generation_metric,Test Failure Rate,U154
+generation_metric,Test Quality Rating,U230
+generation_metric,Test Scoring/Reward Evaluation Time,U229
+generation_metric,Test Size,U100
+generation_metric,Test Toxicity,U083
+generation_metric,Test-quality Triage False Discovery Proportion,U230
+generation_metric,Testing-pattern Distribution,U215
+generation_metric,Throughput,U205
+generation_metric,Throw-statement Coverage,U105
+generation_metric,Time-per-valid-input,U167
+generation_metric,Token Edit Distance,U100
+generation_metric,Token-weighted Cost,U212
+generation_metric,Unique Covered Branch Count,U213
+generation_metric,Unique Method Coverage,U013
+generation_metric,Uniquely Contributing Test Proportion,U016
+generation_metric,Unit-test Fidelity,U201
+generation_metric,Unknown Assertion Pattern Rate,U207
+generation_metric,Useful-test Ratio,U197
+generation_metric,User Confidence,U194
+generation_metric,Valid Assertion Count,U083
+generation_metric,Valid Input Rate,U167
+generation_metric,Valid Program Count,U227
+generation_metric,Valid Suite Rate,U229
+generation_metric,Valid Target/Instance Count,U231
+generation_metric,Valid Test Rate,U201
+generation_metric,Valid-target/instance Yield,U231
+generation_metric,Valid-test Yield,U233
+generation_metric,Variable Diversity,U060
+generation_metric,Win Rate,U068
+code_availability,Verified implementation or experimental code,SN001
+code_availability,Verified implementation or experimental code,SN002
+code_availability,Verified implementation or experimental code,SN004
+code_availability,Verified implementation or experimental code,SN005
+code_availability,Verified implementation or experimental code,SN006
+code_availability,Verified implementation or experimental code,SN007
+code_availability,Verified implementation or experimental code,SN008
+code_availability,Verified implementation or experimental code,SN012
+code_availability,Verified implementation or experimental code,SN016
+code_availability,Verified implementation or experimental code,SN017
+code_availability,Verified implementation or experimental code,U005
+code_availability,Verified implementation or experimental code,U006
+code_availability,Verified implementation or experimental code,U008
+code_availability,Verified implementation or experimental code,U010
+code_availability,Verified implementation or experimental code,U013
+code_availability,Verified implementation or experimental code,U014
+code_availability,Verified implementation or experimental code,U015
+code_availability,Verified implementation or experimental code,U016
+code_availability,Verified implementation or experimental code,U017
+code_availability,Verified implementation or experimental code,U018
+code_availability,Verified implementation or experimental code,U019
+code_availability,Verified implementation or experimental code,U022
+code_availability,Verified implementation or experimental code,U024
+code_availability,Verified implementation or experimental code,U025
+code_availability,Verified implementation or experimental code,U026
+code_availability,Verified implementation or experimental code,U027
+code_availability,Verified implementation or experimental code,U028
+code_availability,Verified implementation or experimental code,U029
+code_availability,Verified implementation or experimental code,U030
+code_availability,Verified implementation or experimental code,U032
+code_availability,Verified implementation or experimental code,U033
+code_availability,Verified implementation or experimental code,U034
+code_availability,Verified implementation or experimental code,U036
+code_availability,Verified implementation or experimental code,U038
+code_availability,Verified implementation or experimental code,U039
+code_availability,Verified implementation or experimental code,U040
+code_availability,Verified implementation or experimental code,U042
+code_availability,Verified implementation or experimental code,U043
+code_availability,Verified implementation or experimental code,U046
+code_availability,Verified implementation or experimental code,U047
+code_availability,Verified implementation or experimental code,U049
+code_availability,Verified implementation or experimental code,U050
+code_availability,Verified implementation or experimental code,U051
+code_availability,Verified implementation or experimental code,U053
+code_availability,Verified implementation or experimental code,U054
+code_availability,Verified implementation or experimental code,U056
+code_availability,Verified implementation or experimental code,U057
+code_availability,Verified implementation or experimental code,U063
+code_availability,Verified implementation or experimental code,U064
+code_availability,Verified implementation or experimental code,U065
+code_availability,Verified implementation or experimental code,U066
+code_availability,Verified implementation or experimental code,U068
+code_availability,Verified implementation or experimental code,U069
+code_availability,Verified implementation or experimental code,U070
+code_availability,Verified implementation or experimental code,U071
+code_availability,Verified implementation or experimental code,U072
+code_availability,Verified implementation or experimental code,U073
+code_availability,Verified implementation or experimental code,U075
+code_availability,Verified implementation or experimental code,U077
+code_availability,Verified implementation or experimental code,U081
+code_availability,Verified implementation or experimental code,U083
+code_availability,Verified implementation or experimental code,U084
+code_availability,Verified implementation or experimental code,U086
+code_availability,Verified implementation or experimental code,U087
+code_availability,Verified implementation or experimental code,U088
+code_availability,Verified implementation or experimental code,U089
+code_availability,Verified implementation or experimental code,U090
+code_availability,Verified implementation or experimental code,U091
+code_availability,Verified implementation or experimental code,U092
+code_availability,Verified implementation or experimental code,U093
+code_availability,Verified implementation or experimental code,U094
+code_availability,Verified implementation or experimental code,U095
+code_availability,Verified implementation or experimental code,U096
+code_availability,Verified implementation or experimental code,U097
+code_availability,Verified implementation or experimental code,U098
+code_availability,Verified implementation or experimental code,U099
+code_availability,Verified implementation or experimental code,U101
+code_availability,Verified implementation or experimental code,U103
+code_availability,Verified implementation or experimental code,U104
+code_availability,Verified implementation or experimental code,U105
+code_availability,Verified implementation or experimental code,U108
+code_availability,Verified implementation or experimental code,U109
+code_availability,Verified implementation or experimental code,U111
+code_availability,Verified implementation or experimental code,U115
+code_availability,Verified implementation or experimental code,U116
+code_availability,Verified implementation or experimental code,U118
+code_availability,Verified implementation or experimental code,U119
+code_availability,Verified implementation or experimental code,U120
+code_availability,Verified implementation or experimental code,U122
+code_availability,Verified implementation or experimental code,U123
+code_availability,Verified implementation or experimental code,U124
+code_availability,Verified implementation or experimental code,U125
+code_availability,Verified implementation or experimental code,U126
+code_availability,Verified implementation or experimental code,U127
+code_availability,Verified implementation or experimental code,U128
+code_availability,Verified implementation or experimental code,U129
+code_availability,Verified implementation or experimental code,U130
+code_availability,Verified implementation or experimental code,U131
+code_availability,Verified implementation or experimental code,U132
+code_availability,Verified implementation or experimental code,U133
+code_availability,Verified implementation or experimental code,U134
+code_availability,Verified implementation or experimental code,U135
+code_availability,Verified implementation or experimental code,U136
+code_availability,Verified implementation or experimental code,U137
+code_availability,Verified implementation or experimental code,U140
+code_availability,Verified implementation or experimental code,U141
+code_availability,Verified implementation or experimental code,U145
+code_availability,Verified implementation or experimental code,U147
+code_availability,Verified implementation or experimental code,U148
+code_availability,Verified implementation or experimental code,U149
+code_availability,Verified implementation or experimental code,U154
+code_availability,Verified implementation or experimental code,U155
+code_availability,Verified implementation or experimental code,U156
+code_availability,Verified implementation or experimental code,U158
+code_availability,Verified implementation or experimental code,U159
+code_availability,Verified implementation or experimental code,U160
+code_availability,Verified implementation or experimental code,U162
+code_availability,Verified implementation or experimental code,U163
+code_availability,Verified implementation or experimental code,U165
+code_availability,Verified implementation or experimental code,U166
+code_availability,Verified implementation or experimental code,U167
+code_availability,Verified implementation or experimental code,U169
+code_availability,Verified implementation or experimental code,U171
+code_availability,Verified implementation or experimental code,U172
+code_availability,Verified implementation or experimental code,U173
+code_availability,Verified implementation or experimental code,U175
+code_availability,Verified implementation or experimental code,U176
+code_availability,Verified implementation or experimental code,U177
+code_availability,Verified implementation or experimental code,U178
+code_availability,Verified implementation or experimental code,U180
+code_availability,Verified implementation or experimental code,U181
+code_availability,Verified implementation or experimental code,U182
+code_availability,Verified implementation or experimental code,U185
+code_availability,Verified implementation or experimental code,U189
+code_availability,Verified implementation or experimental code,U190
+code_availability,Verified implementation or experimental code,U192
+code_availability,Verified implementation or experimental code,U193
+code_availability,Verified implementation or experimental code,U194
+code_availability,Verified implementation or experimental code,U195
+code_availability,Verified implementation or experimental code,U198
+code_availability,Verified implementation or experimental code,U199
+code_availability,Verified implementation or experimental code,U200
+code_availability,Verified implementation or experimental code,U201
+code_availability,Verified implementation or experimental code,U202
+code_availability,Verified implementation or experimental code,U204
+code_availability,Verified implementation or experimental code,U205
+code_availability,Verified implementation or experimental code,U206
+code_availability,Verified implementation or experimental code,U207
+code_availability,Verified implementation or experimental code,U208
+code_availability,Verified implementation or experimental code,U211
+code_availability,Verified implementation or experimental code,U213
+code_availability,Verified implementation or experimental code,U217
+code_availability,Verified implementation or experimental code,U223
+code_availability,Verified implementation or experimental code,U224
+code_availability,Verified implementation or experimental code,U230
+code_availability,Verified implementation or experimental code,U231
+code_availability,Verified implementation or experimental code,U232
+code_availability,Verified implementation or experimental code,U233
+code_availability,Verified implementation or experimental code,U237
+code_availability,Accessible author code not verified,SN009
+code_availability,Accessible author code not verified,SN010
+code_availability,Accessible author code not verified,SN011
+code_availability,Accessible author code not verified,SN014
+code_availability,Accessible author code not verified,SN015
+code_availability,Accessible author code not verified,U007
+code_availability,Accessible author code not verified,U011
+code_availability,Accessible author code not verified,U012
+code_availability,Accessible author code not verified,U020
+code_availability,Accessible author code not verified,U023
+code_availability,Accessible author code not verified,U035
+code_availability,Accessible author code not verified,U041
+code_availability,Accessible author code not verified,U044
+code_availability,Accessible author code not verified,U045
+code_availability,Accessible author code not verified,U048
+code_availability,Accessible author code not verified,U052
+code_availability,Accessible author code not verified,U058
+code_availability,Accessible author code not verified,U059
+code_availability,Accessible author code not verified,U060
+code_availability,Accessible author code not verified,U061
+code_availability,Accessible author code not verified,U062
+code_availability,Accessible author code not verified,U067
+code_availability,Accessible author code not verified,U078
+code_availability,Accessible author code not verified,U079
+code_availability,Accessible author code not verified,U082
+code_availability,Accessible author code not verified,U100
+code_availability,Accessible author code not verified,U102
+code_availability,Accessible author code not verified,U117
+code_availability,Accessible author code not verified,U153
+code_availability,Accessible author code not verified,U174
+code_availability,Accessible author code not verified,U179
+code_availability,Accessible author code not verified,U188
+code_availability,Accessible author code not verified,U191
+code_availability,Accessible author code not verified,U196
+code_availability,Accessible author code not verified,U203
+code_availability,Accessible author code not verified,U209
+code_availability,Accessible author code not verified,U210
+code_availability,Accessible author code not verified,U212
+code_availability,Accessible author code not verified,U214
+code_availability,Accessible author code not verified,U215
+code_availability,Accessible author code not verified,U216
+code_availability,Accessible author code not verified,U219
+code_availability,Accessible author code not verified,U220
+code_availability,Accessible author code not verified,U221
+code_availability,Accessible author code not verified,U222
+code_availability,Accessible author code not verified,U225
+code_availability,Accessible author code not verified,U226
+code_availability,Accessible author code not verified,U229
+code_availability,Accessible author code not verified,U234
+code_availability,Accessible author code not verified,U235
+code_availability,Accessible author code not verified,U236
+code_availability,Accessible author code not verified,U238
+code_availability,Accessible author code not verified,U239
+code_availability,Partial implementation or auxiliary code,U002
+code_availability,Partial implementation or auxiliary code,U004
+code_availability,Partial implementation or auxiliary code,U009
+code_availability,Partial implementation or auxiliary code,U055
+code_availability,Partial implementation or auxiliary code,U074
+code_availability,Partial implementation or auxiliary code,U080
+code_availability,Partial implementation or auxiliary code,U106
+code_availability,Partial implementation or auxiliary code,U110
+code_availability,Partial implementation or auxiliary code,U142
+code_availability,Partial implementation or auxiliary code,U146
+code_availability,Partial implementation or auxiliary code,U197
+code_availability,Partial implementation or auxiliary code,U227
+code_availability,Code claimed by authors; accessibility unverified,SN003
+code_availability,Code claimed by authors; accessibility unverified,SN013
+code_availability,Code claimed by authors; accessibility unverified,U107
+code_availability,Code claimed by authors; accessibility unverified,U157
+model_family,Claude,SN002
+model_family,Claude,U075
+model_family,Claude,U082
+model_family,Claude,U107
+model_family,Claude,U115
+model_family,Claude,U117
+model_family,Claude,U123
+model_family,Claude,U124
+model_family,Claude,U134
+model_family,Claude,U147
+model_family,Claude,U148
+model_family,Claude,U149
+model_family,Claude,U179
+model_family,Claude,U192
+model_family,Claude,U203
+model_family,Claude,U204
+model_family,Claude,U208
+model_family,Claude,U220
+model_family,Claude,U221
+model_family,Claude,U230
+model_family,Claude,U234
+model_family,Claude,U235
+model_family,Claude,U238
+model_family,Claude,U239
+model_family,Gemini,SN006
+model_family,Gemini,U043
+model_family,Gemini,U052
+model_family,Gemini,U074
+model_family,Gemini,U075
+model_family,Gemini,U082
+model_family,Gemini,U147
+model_family,Gemini,U148
+model_family,Gemini,U177
+model_family,Gemini,U203
+model_family,Gemini,U208
+model_family,Gemini,U213
+model_family,Gemini,U215
+model_family,Gemini,U220
+model_family,Gemini,U221
+model_family,Gemini,U238
+model_family,Gemma,SN006
+model_family,Gemma,U068
+model_family,Gemma,U091
+model_family,Gemma,U160
+model_family,Gemma,U198
+model_family,Gemma,U224
+model_family,Phi,U061
+model_family,Phi,U078
+model_family,Phi,U088
+model_family,Phi,U096
+model_family,Phi,U160
+model_family,Phi,U173
